@@ -5,3 +5,5 @@ print(arr1)
 
 print(arr1[0:3])
 print(arr1[2:3])
+
+print(arr1.shape)
