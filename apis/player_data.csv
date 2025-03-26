@@ -1,0 +1,631 @@
+,_id,name,team,country,position,age,dateOfBirth,height,shirtNumber,goals,assists,appearances,firstTeamAppearances,minutesPlayed,yellowCards,redCards
+0,66c5b3caf98db29296783a18,adam webster,brighton,england,centre back,29,1995-01-04T00:00:00.000Z,1.9,4.0,0,0,11,8,693,0,0
+1,66c5b3caf98db29296783a14,jason steele,brighton,england,goalkeeper,34,1990-08-18T00:00:00.000Z,1.88,23.0,0,0,2,2,202,0,0
+2,66c5b3caf98db29296783a13,bart verbruggen,brighton,netherlands,goalkeeper,22,2002-08-18T00:00:00.000Z,1.94,1.0,0,1,27,27,2671,4,0
+3,66c5b3caf98db29296783a1f,yasin ayari,brighton,sweden,central midfield,21,2003-10-06T00:00:00.000Z,1.72,26.0,0,1,25,16,1579,3,0
+4,66c5b3caf98db29296783a22,jakub moder,brighton,poland,central midfield,25,1999-04-07T00:00:00.000Z,1.91,15.0,0,0,4,0,42,0,0
+5,66c5b3caf98db29296783a24,carlos baleba,brighton,cameroon,central midfield,20,2004-01-03T00:00:00.000Z,1.79,20.0,2,1,25,23,2088,7,1
+6,66c5b3caf98db29296783a34,evan ferguson,brighton,ireland,centre forward,20,2004-10-19T00:00:00.000Z,1.83,28.0,1,0,14,2,384,0,0
+7,66c5b3caf98db29296783a35,abdallah sima,brighton,senegal,centre forward,23,2001-06-17T00:00:00.000Z,1.88,31.0,0,0,0,0,0,0,0
+8,66c5b3caf98db29296783a39,virgil van dijk,liverpool,netherlands,centre back,33,1991-07-08T00:00:00.000Z,1.93,4.0,1,1,28,28,2747,3,0
+9,66c5b3caf98db29296783a3b,konstantinos tsimikas,liverpool,greece,left back,28,1996-05-12T00:00:00.000Z,1.79,21.0,0,1,13,4,495,2,0
+10,66c5b3caf98db29296783a3c,andrew robertson,liverpool,scotland,left back,30,1994-03-11T00:00:00.000Z,1.78,26.0,0,0,27,24,2243,3,1
+11,66c5b3caf98db29296783a3f,trent alexanderarnold,liverpool,england,right back,26,1998-10-07T00:00:00.000Z,1.8,66.0,2,6,27,25,2180,4,0
+12,66c5b3caf98db29296783a41,jarell quansah,liverpool,england,centre back,21,2003-01-29T00:00:00.000Z,1.9,78.0,0,0,9,2,342,1,0
+13,66c5b3caf98db29296783a42,conor bradley,liverpool,northern ireland,right back,21,2003-07-09T00:00:00.000Z,1.81,84.0,0,0,12,2,501,2,0
+14,66c5b3caf98db29296783a4a,stefan bajcetic,liverpool,spain,defensive midfield,19,2004-10-22T00:00:00.000Z,1.85,43.0,0,0,0,0,0,0,0
+15,66c5b3caf98db29296783a4b,luis diaz,liverpool,colombia,left forward,27,1997-01-13T00:00:00.000Z,1.8,7.0,9,3,27,21,1882,2,0
+16,66c5b3caf98db29296783a15,carl rushworth,brighton,england,goalkeeper,23,2001-07-02T00:00:00.000Z,1.88,39.0,0,0,0,0,0,0,0
+17,66c5b3caf98db29296783a16,tariq lamptey,brighton,ghana,right back,24,2000-09-30T00:00:00.000Z,1.63,2.0,2,2,13,9,857,0,0
+18,66c5b3caf98db29296783a19,lewis dunk,brighton,england,centre back,32,1991-11-21T00:00:00.000Z,1.92,5.0,0,0,19,17,1731,4,0
+19,66c5b3caf98db29296783a1d,joel veltman,brighton,netherlands,right back,32,1992-01-15T00:00:00.000Z,1.84,34.0,0,0,19,19,1775,4,0
+20,66c5b3caf98db29296783a1e,ed turns,brighton,wales,centre back,22,2002-10-18T00:00:00.000Z,1.82,48.0,0,0,0,0,0,0,0
+21,66c5b3caf98db29296783a25,mats wieffer,brighton,netherlands,central midfield,25,1999-11-16T00:00:00.000Z,1.88,27.0,1,1,17,4,601,4,0
+22,66c5b3caf98db29296783a26,mahmoud dahoud,brighton,syria,central midfield,28,1996-01-01T00:00:00.000Z,1.78,35.0,0,0,0,0,0,0,0
+23,66c5b3caf98db29296783a2d,brajan gruda,brighton,germany,right forward,20,2004-05-31T00:00:00.000Z,1.78,8.0,0,1,13,5,435,0,0
+24,66c5b3caf98db29296783a32,kaoru mitoma,brighton,japan,left forward,27,1997-05-20T00:00:00.000Z,1.78,22.0,7,3,29,26,2480,1,0
+25,66c5b3caf98db29296783a36,alisson,liverpool,brazil,goalkeeper,32,1992-10-02T00:00:00.000Z,1.93,1.0,0,0,20,20,1944,0,0
+26,66c5b3caf98db29296783a38,joe gomez,liverpool,england,centre back,27,1997-05-23T00:00:00.000Z,1.88,2.0,0,0,9,6,575,1,0
+27,66c5b3caf98db29296783a43,wataru endo,liverpool,japan,defensive midfield,31,1993-02-09T00:00:00.000Z,1.76,3.0,0,0,13,0,227,0,0
+28,66c5b3caf98db29296783a44,dominik szoboszlai,liverpool,hungary,central midfield,24,2000-10-25T00:00:00.000Z,1.87,8.0,4,4,26,21,2021,6,0
+29,66c5b3caf98db29296783a45,alexis mac allister,liverpool,argentina,central midfield,25,1998-12-24T00:00:00.000Z,1.76,10.0,2,3,27,24,2168,6,0
+30,66c5b3caf98db29296783a47,harvey elliott,liverpool,england,attacking midfield,21,2003-04-04T00:00:00.000Z,1.7,19.0,0,1,11,0,205,0,0
+31,66c5b3caf98db29296783a4d,mohamed salah,liverpool,egypt,right forward,32,1992-06-15T00:00:00.000Z,1.75,11.0,27,16,28,28,2673,1,0
+32,66c5b3caf98db29296783a4e,cody gakpo,liverpool,netherlands,centre forward,25,1999-05-07T00:00:00.000Z,1.93,18.0,8,3,25,16,1474,4,0
+33,66c5b3caf98db29296783a50,ben doak,liverpool,scotland,right forward,18,2005-11-11T00:00:00.000Z,1.73,50.0,0,0,0,0,0,0,0
+34,66c5b3caf98db29296783a52,aaron ramsdale,southampton,england,goalkeeper,26,1998-05-14T00:00:00.000Z,1.9,30.0,0,0,21,21,2058,2,0
+35,66c5b3caf98db29296783a23,jeremy sarmiento,brighton,ecuador,left midfield,22,2002-06-16T00:00:00.000Z,1.83,16.0,0,0,1,0,22,0,0
+36,66c5b3caf98db29296783a27,andy moran,brighton,ireland,attacking midfield,20,2003-10-15T00:00:00.000Z,1.77,36.0,0,0,0,0,0,0,0
+37,66c5b3caf98db29296783a2a,jack hinshelwood,brighton,england,central midfield,19,2005-04-11T00:00:00.000Z,1.81,41.0,2,0,17,15,1366,3,0
+38,66c5b3caf98db29296783a30,yankuba minteh,brighton,gambia,right forward,20,2004-07-22T00:00:00.000Z,1.8,17.0,5,3,24,13,1404,5,0
+39,66c5b3caf98db29296783a31,danny welbeck,brighton,england,centre forward,33,1990-11-26T00:00:00.000Z,1.85,18.0,7,4,22,17,1584,2,0
+40,66c5b3caf98db29296783a40,sepp van den berg,brentford,netherlands,centre back,21,2002-12-20T00:00:00.000Z,1.92,4.0,0,0,23,20,1917,1,0
+41,66c5b3caf98db29296783a48,ryan gravenberch,liverpool,netherlands,central midfield,22,,1.9,38.0,0,2,28,28,2563,5,0
+42,66c5b3caf98db29296783a49,bobby clark,liverpool,england,central midfield,19,2005-02-07T00:00:00.000Z,1.78,42.0,0,0,0,0,0,0,0
+43,66c5b3caf98db29296783a4c,darwin nunez,liverpool,uruguay,centre forward,25,1999-06-24T00:00:00.000Z,1.87,9.0,5,2,22,8,1095,7,0
+44,66c5b3caf98db29296783a4f,diogo jota,liverpool,portugal,left forward,27,1996-12-04T00:00:00.000Z,1.78,20.0,5,3,17,9,869,1,0
+45,66c5b3caf98db29296783a51,tommy setford,arsenal,england,goalkeeper,18,2006-03-13T00:00:00.000Z,1.85,,0,0,0,0,0,0,0
+46,66c5b3caf98db29296783a17,igor,brighton,brazil,centre back,26,1998-02-07T00:00:00.000Z,1.88,3.0,0,0,12,9,1005,4,0
+47,66c5b3caf98db29296783a1a,valentin barco,brighton,argentina,left back,20,2004-07-23T00:00:00.000Z,1.72,19.0,0,0,0,0,0,0,0
+48,66c5b3caf98db29296783a1b,jan paul van hecke,brighton,netherlands,centre back,24,2000-06-08T00:00:00.000Z,1.89,29.0,1,1,27,26,2570,5,0
+49,66c5b3caf98db29296783a1c,pervis estupinan,brighton,ecuador,left back,26,1998-01-21T00:00:00.000Z,1.75,30.0,1,1,22,18,1846,3,0
+50,66c5b3caf98db29296783a20,james milner,brighton,england,central midfield,38,1986-01-04T00:00:00.000Z,1.75,6.0,0,0,3,3,172,1,0
+51,66c5b3caf98db29296783a21,billy gilmour,brighton,scotland,central midfield,23,2001-06-11T00:00:00.000Z,1.7,11.0,0,0,2,1,112,0,0
+52,66c5b3caf98db29296783a28,jensen weir,brighton,england,central midfield,22,2002-01-31T00:00:00.000Z,1.84,37.0,0,0,0,0,0,0,0
+53,66c5b3caf98db29296783a29,malick junior yalcouye,brighton,mali,central midfield,18,2005-11-18T00:00:00.000Z,1.69,40.0,0,0,0,0,0,0,0
+54,66c5b3caf98db29296783a2b,georginio rutter,brighton,france,centre forward,22,2002-04-20T00:00:00.000Z,1.82,14.0,5,4,28,19,1774,2,0
+55,66c5b3caf98db29296783a2c,solly march,brighton,england,right forward,30,1994-07-20T00:00:00.000Z,1.8,7.0,0,0,4,0,75,1,0
+56,66c5b3caf98db29296783a2e,joao pedro,brighton,brazil,centre forward,23,2001-09-26T00:00:00.000Z,1.87,9.0,8,6,23,20,1833,4,0
+57,66c5b3caf98db29296783a2f,julio enciso,brighton,paraguay,secondary striker,20,2004-01-23T00:00:00.000Z,1.73,10.0,0,1,17,6,654,2,0
+58,66c5b3caf98db29296783a33,simon adingra,brighton,ivory coast,left forward,22,2002-01-01T00:00:00.000Z,1.75,11.0,2,1,20,6,734,0,0
+59,66c5b3caf98db29296783a37,caoimhin kelleher,liverpool,ireland,goalkeeper,25,1998-11-23T00:00:00.000Z,1.88,62.0,0,0,8,8,784,0,0
+60,66c5b3caf98db29296783a3a,ibrahima konate,liverpool,france,centre back,25,1999-05-25T00:00:00.000Z,1.94,5.0,1,2,22,21,1965,5,0
+61,66c5b3caf98db29296783a3d,rhys williams,liverpool,england,centre back,23,2001-02-03T00:00:00.000Z,1.95,46.0,0,0,0,0,0,0,0
+62,66c5b3caf98db29296783a3e,nathaniel phillips,liverpool,england,centre back,27,1997-03-21T00:00:00.000Z,1.9,47.0,0,0,0,0,0,0,0
+63,66c5b3caf98db29296783a46,curtis jones,liverpool,england,central midfield,23,2001-01-30T00:00:00.000Z,1.85,17.0,3,3,23,13,1243,2,0
+64,66c5b3caf98db29296783a53,david raya,arsenal,spain,goalkeeper,29,1995-09-15T00:00:00.000Z,1.83,22.0,0,0,28,28,2747,2,0
+65,66c5b3caf98db29296783a59,jakub kiwior,arsenal,poland,left back,24,2000-02-15T00:00:00.000Z,1.89,15.0,0,0,8,2,426,0,0
+66,66c5b3caf98db29296783a5a,oleksandr zinchenko,arsenal,ukraine,left back,27,1996-12-15T00:00:00.000Z,1.75,17.0,0,0,9,2,315,1,0
+67,66c5b3caf98db29296783a60,fabio vieira,arsenal,portugal,attacking midfield,24,2000-05-30T00:00:00.000Z,1.7,21.0,0,0,0,0,0,0,0
+68,66c5b3caf98db29296783a63,bukayo saka,arsenal,england,right forward,23,2001-09-05T00:00:00.000Z,1.78,7.0,5,11,16,16,1335,3,0
+69,66c5b3caf98db29296783a64,gabriel jesus,arsenal,brazil,centre forward,27,1997-04-03T00:00:00.000Z,1.75,9.0,3,1,17,6,719,3,0
+70,66c5b3caf98db29296783a66,eddie nketiah,crystal palace,england,centre forward,25,,1.75,9.0,1,1,20,7,813,3,0
+71,66c5b3caf98db29296783a67,leandro trossard,arsenal,belgium,left forward,29,1994-12-04T00:00:00.000Z,1.72,19.0,5,5,28,20,2001,3,1
+72,66c5b3caf98db29296783a68,reiss nelson,fulham,england,right forward,24,1999-12-10T00:00:00.000Z,1.75,19.0,1,1,12,5,543,1,0
+73,66c5b3caf98db29296783a6d,ruben dias,manchester city,portugal,centre back,27,1997-05-14T00:00:00.000Z,1.87,3.0,0,0,18,16,1585,3,0
+74,66c5b3caf98db29296783a71,joao cancelo,manchester city,portugal,right back,30,1994-05-27T00:00:00.000Z,1.82,7.0,0,0,0,0,0,0,0
+75,66c5b3caf98db29296783a72,josko gvardiol,manchester city,croatia,left back,22,2002-01-23T00:00:00.000Z,1.85,24.0,5,0,28,27,2613,1,0
+76,66c5b3caf98db29296783a75,rico lewis,manchester city,england,right back,19,2004-11-21T00:00:00.000Z,1.69,82.0,1,2,23,19,1823,4,1
+77,66c5b3caf98db29296783a76,josh wilsonesbrand,manchester city,england,left back,21,2002-12-26T00:00:00.000Z,1.76,97.0,0,0,0,0,0,0,0
+78,66c5b3caf98db29296783a78,rodri hernandez,manchester city,spain,defensive midfield,28,1996-06-22T00:00:00.000Z,1.91,16.0,0,0,2,1,69,0,0
+79,66c5b3caf98db29296783a79,kevin de bruyne,manchester city,belgium,attacking midfield,33,,1.81,17.0,2,8,20,12,1158,2,0
+80,66c5b3caf98db29296783a7c,maximo perrone,manchester city,argentina,central midfield,21,2003-01-07T00:00:00.000Z,1.77,32.0,0,0,0,0,0,0,0
+81,66c5b3caf98db29296783a7f,jack grealish,manchester city,england,left forward,29,1995-10-09T00:00:00.000Z,1.8,10.0,0,1,16,6,684,3,0
+82,66c5b3caf98db29296783a80,jeremy doku,manchester city,belgium,left forward,22,2002-05-27T00:00:00.000Z,1.71,11.0,3,5,20,13,1225,1,0
+83,66c5b3caf98db29296783a84,amar fatah,manchester city,sweden,left forward,20,,1.8,93.0,0,0,0,0,0,0,0
+84,66c5b3caf98db29296783a85,joe gauci,aston villa,australia,goalkeeper,24,2000-07-04T00:00:00.000Z,1.94,18.0,0,0,0,0,0,0,0
+85,66c5b3caf98db29296783a8b,ezri konsa,aston villa,england,centre back,27,1997-10-23T00:00:00.000Z,1.83,4.0,1,0,25,25,2403,0,0
+86,66c5b3caf98db29296783a8e,pau torres,aston villa,spain,centre back,27,1997-01-16T00:00:00.000Z,1.92,14.0,0,1,18,18,1711,1,0
+87,66c5b3caf98db29296783a8f,alex moreno,nottingham forest,spain,left back,31,1993-06-08T00:00:00.000Z,1.79,19.0,0,1,13,10,851,2,0
+88,66c5b3caf98db29296783a5c,riccardo calafiori,arsenal,italy,left back,22,2002-05-19T00:00:00.000Z,1.88,33.0,2,1,16,10,950,4,0
+89,66c5b3caf98db29296783a61,kai havertz,arsenal,germany,centre forward,25,1999-06-11T00:00:00.000Z,1.93,29.0,9,3,21,21,2000,4,0
+90,66c5b3caf98db29296783a65,gabriel martinelli,arsenal,brazil,left forward,23,2001-06-18T00:00:00.000Z,1.78,11.0,6,3,24,17,1665,1,0
+91,66c5b3caf98db29296783a6b,scott carson,manchester city,england,goalkeeper,39,1985-09-03T00:00:00.000Z,1.88,33.0,0,0,0,0,0,0,0
+92,66c5b3caf98db29296783a6e,john stones,manchester city,england,centre back,30,,1.88,5.0,2,0,10,6,585,1,0
+93,66c5b3caf98db29296783a6f,stephen mfuni,manchester city,england,centre back,16,2008-02-12T00:00:00.000Z,,5.0,0,0,0,0,0,0,0
+94,66c5b3caf98db29296783a70,nathan ake,manchester city,netherlands,centre back,29,1995-02-18T00:00:00.000Z,1.8,6.0,0,0,10,8,697,0,0
+95,66c5b3caf98db29296783a7e,erling haaland,manchester city,norway,centre forward,24,2000-07-21T00:00:00.000Z,1.95,9.0,21,3,28,28,2619,2,0
+96,66c5b3caf98db29296783a82,phil foden,manchester city,england,right forward,24,2000-05-28T00:00:00.000Z,1.71,47.0,7,2,24,18,1734,2,0
+97,66c5b3caf98db29296783a83,oscar bobb,manchester city,norway,right forward,21,2003-07-12T00:00:00.000Z,1.75,52.0,0,0,0,0,0,0,0
+98,66c5b3caf98db29296783a8d,lucas digne,aston villa,france,left back,31,1993-07-20T00:00:00.000Z,1.78,12.0,0,4,28,25,2186,3,0
+99,66c5b3caf98db29296783a90,kosta nedeljkovic,aston villa,serbia,right back,18,2005-12-16T00:00:00.000Z,1.84,20.0,0,0,5,0,168,0,0
+100,66c5b3caf98db29296783a91,ian maatsen,aston villa,netherlands,left back,22,,1.68,22.0,0,1,22,4,804,2,0
+101,66c5b3caf98db29296783a54,william saliba,arsenal,france,centre back,23,2001-03-24T00:00:00.000Z,1.92,2.0,2,0,26,26,2548,2,1
+102,66c5b3caf98db29296783a55,kieran tierney,arsenal,scotland,left back,27,,1.8,3.0,0,0,6,0,118,0,0
+103,66c5b3caf98db29296783a57,gabriel magalhaes,arsenal,brazil,centre back,26,1997-12-19T00:00:00.000Z,1.9,6.0,3,1,26,26,2457,4,0
+104,66c5b3caf98db29296783a5b,takehiro tomiyasu,arsenal,japan,right back,26,1998-11-05T00:00:00.000Z,1.88,18.0,0,0,1,0,17,0,0
+105,66c5b3caf98db29296783a5e,martin odegaard,arsenal,norway,attacking midfield,25,1998-12-17T00:00:00.000Z,1.78,8.0,2,4,20,19,1719,3,0
+106,66c5b3caf98db29296783a6a,ederson moraes,manchester city,brazil,goalkeeper,31,1993-08-17T00:00:00.000Z,1.88,31.0,0,3,19,19,1828,3,0
+107,66c5b3caf98db29296783a6c,kyle walker,manchester city,england,right back,34,1990-05-28T00:00:00.000Z,1.83,2.0,0,0,15,9,1050,3,0
+108,66c5b3caf98db29296783a74,issa kabore,manchester city,burkina faso,right back,23,2001-05-12T00:00:00.000Z,1.8,78.0,0,0,0,0,0,0,0
+109,66c5b3caf98db29296783a77,mateo kovacic,manchester city,croatia,central midfield,30,1994-05-06T00:00:00.000Z,1.77,8.0,4,1,24,19,1777,5,0
+110,66c5b3caf98db29296783a7a,bernardo silva,manchester city,portugal,attacking midfield,30,,1.73,20.0,2,4,26,22,2239,5,0
+111,66c5b3caf98db29296783a7b,matheus nunes,manchester city,portugal,central midfield,26,1998-08-27T00:00:00.000Z,1.83,27.0,0,4,18,12,1104,3,0
+112,66c5b3caf98db29296783a7d,james mcatee,manchester city,england,attacking midfield,22,2002-10-18T00:00:00.000Z,1.8,87.0,2,0,10,0,160,0,0
+113,66c5b3caf98db29296783a8c,tyrone mings,aston villa,england,centre back,31,1993-03-13T00:00:00.000Z,1.96,5.0,0,0,10,8,851,1,0
+114,66c5b3caf98db29296783a92,kortney hause,aston villa,england,centre back,29,1995-07-16T00:00:00.000Z,1.91,30.0,0,0,0,0,0,0,0
+115,66c5b3caf98db29296783a56,ben white,arsenal,england,right back,27,1997-10-08T00:00:00.000Z,1.86,4.0,0,1,10,7,786,2,0
+116,66c5b3caf98db29296783a58,jurrien timber,arsenal,netherlands,centre back,23,2001-06-17T00:00:00.000Z,1.82,12.0,1,2,25,24,2237,7,0
+117,66c5b3caf98db29296783a5d,thomas partey,arsenal,ghana,defensive midfield,31,1993-06-13T00:00:00.000Z,1.85,5.0,3,2,27,23,2271,3,0
+118,66c5b3caf98db29296783a5f,jorginho,arsenal,italy,defensive midfield,32,1991-12-20T00:00:00.000Z,1.78,20.0,0,0,12,7,592,4,0
+119,66c5b3caf98db29296783a62,declan rice,arsenal,england,defensive midfield,25,1999-01-14T00:00:00.000Z,1.88,41.0,2,5,26,24,2327,4,1
+120,66c5b3caf98db29296783a69,stefan ortega,manchester city,germany,goalkeeper,32,1992-11-06T00:00:00.000Z,1.85,18.0,0,0,10,10,942,1,0
+121,66c5b3caf98db29296783a73,manuel akanji,manchester city,switzerland,centre back,29,1995-07-19T00:00:00.000Z,1.88,25.0,0,0,20,20,1799,3,0
+122,66c5b3caf98db29296783a81,savio,manchester city,brazil,right forward,20,2004-04-10T00:00:00.000Z,1.76,26.0,1,7,24,19,1633,3,0
+123,66c5b3caf98db29296783a86,emiliano martinez,aston villa,argentina,goalkeeper,32,1992-09-02T00:00:00.000Z,1.95,23.0,0,0,28,28,2687,2,0
+124,66c5b3caf98db29296783a87,robin olsen,aston villa,sweden,goalkeeper,34,1990-01-08T00:00:00.000Z,1.9,25.0,0,0,3,1,203,0,0
+125,66c5b3caf98db29296783a88,lino sousa,aston villa,england,left back,19,2005-01-19T00:00:00.000Z,1.85,,0,0,0,0,0,0,0
+126,66c5b3caf98db29296783a89,matty cash,aston villa,poland,right back,27,1997-08-07T00:00:00.000Z,1.85,2.0,1,1,19,16,1525,6,0
+127,66c5b3caf98db29296783a8a,diego carlos,aston villa,brazil,centre back,31,1993-03-15T00:00:00.000Z,1.85,3.0,0,0,10,8,937,1,0
+128,66c5b3caf98db29296783a93,ross barkley,aston villa,england,attacking midfield,30,1993-12-05T00:00:00.000Z,1.89,6.0,3,1,16,3,699,3,0
+129,66c5b3caf98db29296783a99,jacob ramsey,aston villa,england,central midfield,23,2001-05-28T00:00:00.000Z,1.8,41.0,1,3,21,15,1341,1,0
+130,66c5b3caf98db29296783aa2,ben winterbottom,brentford,england,goalkeeper,23,2001-07-16T00:00:00.000Z,1.88,,0,0,0,0,0,0,0
+131,66c5b3caf98db29296783aa3,mark flekken,brentford,netherlands,goalkeeper,31,1993-06-13T00:00:00.000Z,1.95,1.0,0,1,28,28,2654,1,0
+132,66c5b3caf98db29296783aa4,hakon rafn valdimarsson,brentford,iceland,goalkeeper,23,2001-10-13T00:00:00.000Z,1.88,31.0,0,0,2,1,157,0,0
+133,66c5b3caf98db29296783aa6,aaron hickey,brentford,scotland,right back,22,2002-06-10T00:00:00.000Z,1.85,2.0,0,0,0,0,0,0,0
+134,66c5b3caf98db29296783aaa,kristoffer ajer,brentford,norway,centre back,26,1998-04-17T00:00:00.000Z,1.98,20.0,0,0,16,15,1248,4,0
+135,66c5b3caf98db29296783aae,paris maghoma,brentford,england,central midfield,23,2001-05-08T00:00:00.000Z,1.78,32.0,0,0,6,0,131,0,0
+136,66c5b3caf98db29296783aaf,christian norgaard,brentford,denmark,defensive midfield,30,1994-03-10T00:00:00.000Z,1.87,6.0,4,2,25,25,2204,4,1
+137,66c5b3caf98db29296783ab0,mathias jensen,brentford,denmark,central midfield,28,1996-01-01T00:00:00.000Z,1.8,8.0,0,1,16,8,810,1,0
+138,66c5b3caf98db29296783ab2,fabio carvalho,brentford,portugal,attacking midfield,22,2002-08-30T00:00:00.000Z,1.7,14.0,1,1,17,3,536,1,0
+139,66c5b3caf98db29296783ab3,frank onyeka,brentford,nigeria,central midfield,26,1998-01-01T00:00:00.000Z,1.83,15.0,0,0,2,0,36,0,0
+140,66c5b3caf98db29296783ac4,noussair mazraoui,manchester united,morocco,right back,27,1997-11-14T00:00:00.000Z,1.83,3.0,0,1,28,25,2250,2,0
+141,66c5b3caf98db29296783ac6,harry maguire,manchester united,england,centre back,31,1993-03-05T00:00:00.000Z,1.94,5.0,1,0,20,15,1478,5,0
+142,66c5b3caf98db29296783ac8,tyrell malacia,manchester united,netherlands,left back,25,1999-08-17T00:00:00.000Z,1.69,12.0,0,0,3,2,108,1,0
+143,66c5b3caf98db29296783ad2,scott mctominay,manchester united,scotland,defensive midfield,27,1996-12-08T00:00:00.000Z,1.91,39.0,0,0,2,0,30,0,0
+144,66c5b3caf98db29296783a95,youri tielemans,aston villa,belgium,central midfield,27,,1.77,8.0,2,4,29,29,2717,4,0
+145,66c5b3caf98db29296783a97,amadou onana,aston villa,belgium,central midfield,23,2001-08-16T00:00:00.000Z,1.95,24.0,2,0,17,14,1167,4,0
+146,66c5b3caf98db29296783a98,leander dendoncker,aston villa,belgium,defensive midfield,29,1995-04-15T00:00:00.000Z,1.88,32.0,0,0,0,0,0,0,0
+147,66c5b3caf98db29296783a9a,boubacar kamara,aston villa,france,defensive midfield,24,,1.84,44.0,0,0,17,13,1172,2,0
+148,66c5b3caf98db29296783a9d,ollie watkins,aston villa,england,centre forward,28,1995-12-30T00:00:00.000Z,1.8,11.0,13,6,29,25,2178,0,0
+149,66c5b3caf98db29296783aa0,morgan rogers,aston villa,england,left forward,22,2002-07-26T00:00:00.000Z,1.87,27.0,7,4,28,28,2510,8,0
+150,66c5b3caf98db29296783aa5,matthew cox,brentford,england,goalkeeper,21,2003-05-02T00:00:00.000Z,1.82,34.0,0,0,0,0,0,0,0
+151,66c5b3caf98db29296783aa7,rico henry,brentford,england,left back,27,,1.7,3.0,0,0,1,0,-3,0,0
+152,66c5b3caf98db29296783aa8,ethan pinnock,brentford,jamaica,centre back,31,1993-05-29T00:00:00.000Z,1.94,5.0,2,0,21,20,1989,2,0
+153,66c5b3caf98db29296783aab,nathan collins,brentford,ireland,centre back,23,2001-04-30T00:00:00.000Z,1.93,22.0,2,1,29,29,2811,4,0
+154,66c5b3caf98db29296783aac,mads roerslev,brentford,denmark,right back,25,1999-06-24T00:00:00.000Z,1.84,30.0,0,1,19,11,1232,2,0
+155,66c5b3caf98db29296783ab8,yunus emre konak,brentford,turkiye,defensive midfield,18,2006-01-10T00:00:00.000Z,1.81,52.0,0,0,5,0,54,0,0
+156,66c5b3caf98db29296783abd,bryan mbeumo,brentford,cameroon,right forward,25,1999-08-07T00:00:00.000Z,1.71,19.0,14,5,29,29,2793,2,0
+157,66c5b3caf98db29296783abe,keane lewis potter,brentford,england,left forward,23,2001-02-22T00:00:00.000Z,1.7,23.0,1,1,29,27,2520,4,0
+158,66c5b3caf98db29296783abf,mikkel damsgaard,brentford,denmark,left forward,24,2000-07-03T00:00:00.000Z,1.8,24.0,2,7,29,26,2332,2,0
+159,66c5b3caf98db29296783ac1,tom heaton,manchester united,england,goalkeeper,38,1986-04-15T00:00:00.000Z,1.88,22.0,0,0,0,0,0,0,0
+160,66c5b3caf98db29296783ac2,andre onana,manchester united,cameroon,goalkeeper,28,1996-04-02T00:00:00.000Z,1.9,24.0,0,0,28,28,2734,0,0
+161,66c5b3caf98db29296783ac5,matthijs de ligt,manchester united,netherlands,centre back,25,1999-08-12T00:00:00.000Z,1.89,4.0,2,0,26,22,2057,4,0
+162,66c5b3caf98db29296783acb,luke shaw,manchester united,england,left back,29,1995-07-12T00:00:00.000Z,1.78,23.0,0,0,2,0,76,0,0
+163,66c5b3caf98db29296783ace,bruno fernandes,manchester united,portugal,attacking midfield,30,1994-09-08T00:00:00.000Z,1.79,8.0,7,7,27,27,2573,3,2
+164,66c5b3caf98db29296783ad0,casemiro,manchester united,brazil,defensive midfield,32,1992-02-23T00:00:00.000Z,1.85,18.0,1,0,18,13,1195,2,0
+165,66c5b3caf98db29296783a94,john mcginn,aston villa,scotland,central midfield,30,1994-10-18T00:00:00.000Z,1.78,7.0,0,3,25,22,1919,6,0
+166,66c5b3caf98db29296783a96,enzo barrenechea,aston villa,argentina,central midfield,23,2001-05-22T00:00:00.000Z,1.86,21.0,0,0,0,0,0,0,0
+167,66c5b3caf98db29296783a9c,emilliano buendia,aston villa,argentina,right forward,27,1996-12-25T00:00:00.000Z,1.72,10.0,0,0,12,0,204,1,0
+168,66c5b3caf98db29296783a9e,samuel iling,aston villa,england,left forward,20,2003-10-04T00:00:00.000Z,1.82,17.0,0,0,0,0,0,0,0
+169,66c5b3caf98db29296783aa1,leon bailey,aston villa,jamaica,left forward,27,1997-08-09T00:00:00.000Z,1.78,31.0,1,2,23,14,1250,3,0
+170,66c5b3caf98db29296783aa9,ben mee,brentford,england,centre back,35,1989-09-21T00:00:00.000Z,1.8,16.0,0,0,8,2,227,2,0
+171,66c5b3caf98db29296783ab5,vitaly janelt,brentford,germany,defensive midfield,26,1998-05-10T00:00:00.000Z,1.84,27.0,1,3,28,25,2225,3,0
+172,66c5b3caf98db29296783ab6,ryan trevitt,brentford,england,central midfield,21,2003-03-12T00:00:00.000Z,1.7,32.0,0,0,1,0,11,0,0
+173,66c5b3caf98db29296783ab7,yarmolyuk,brentford,ukraine,attacking midfield,20,2004-05-10T00:00:00.000Z,1.8,33.0,0,0,0,0,0,0,0
+174,66c5b3caf98db29296783ab9,kevin schade,brentford,germany,right forward,22,2001-11-27T00:00:00.000Z,1.85,7.0,7,2,29,17,1670,2,0
+175,66c5b3caf98db29296783aba,igor thiago,brentford,brazil,centre forward,23,2001-06-26T00:00:00.000Z,1.89,9.0,0,0,4,1,156,0,0
+176,66c5b3caf98db29296783abb,yoane wissa,brentford,dr congo,left forward,28,1996-09-03T00:00:00.000Z,1.76,11.0,13,2,26,25,2229,2,0
+177,66c5b3caf98db29296783abc,ivan toney,brentford,england,centre forward,28,1996-03-16T00:00:00.000Z,1.85,17.0,0,0,0,0,0,0,0
+178,66c5b3caf98db29296783ac9,leny yoro,manchester united,france,centre back,19,2005-11-13T00:00:00.000Z,1.9,15.0,0,0,14,7,767,3,0
+179,66c5b3caf98db29296783aca,diogo dalot,manchester united,portugal,right back,25,1999-03-18T00:00:00.000Z,1.83,20.0,0,0,27,27,2597,4,0
+180,66c5b3caf98db29296783acd,mason mount,manchester united,england,attacking midfield,25,1999-01-10T00:00:00.000Z,1.81,7.0,0,0,8,4,308,1,0
+181,66c5b3caf98db29296783ad1,kobbie mainoo,manchester united,england,central midfield,19,2005-04-19T00:00:00.000Z,1.75,37.0,0,0,18,15,1353,5,0
+182,66c5b3caf98db29296783a9b,jhon duran,aston villa,colombia,centre forward,20,2003-12-13T00:00:00.000Z,1.85,9.0,7,0,20,4,857,3,1
+183,66c5b3caf98db29296783a9f,jaden philogenebidace,aston villa,england,left forward,22,2002-02-08T00:00:00.000Z,1.81,19.0,2,0,18,7,906,3,1
+184,66c5b3caf98db29296783aad,kim jisoo,brentford,south korea,centre back,19,2004-12-24T00:00:00.000Z,1.89,36.0,0,0,3,0,48,0,0
+185,66c5b3caf98db29296783ab1,josh dasilva,brentford,england,central midfield,26,1998-10-23T00:00:00.000Z,1.84,10.0,0,0,0,0,0,0,0
+186,66c5b3caf98db29296783ab4,myles peartharris,brentford,england,attacking midfield,21,2002-09-18T00:00:00.000Z,1.87,25.0,0,0,0,0,0,0,0
+187,66c5b3caf98db29296783ac0,altay bayindir,manchester united,turkiye,goalkeeper,26,1998-04-14T00:00:00.000Z,1.98,1.0,0,0,0,0,0,0,0
+188,66c5b3caf98db29296783ac3,victor lindelof,manchester united,sweden,centre back,30,1994-07-17T00:00:00.000Z,1.87,2.0,0,0,7,1,218,1,0
+189,66c5b3caf98db29296783ac7,lisandro martinez,manchester united,argentina,centre back,26,1998-01-18T00:00:00.000Z,1.75,6.0,2,1,20,20,1885,7,0
+190,66c5b3caf98db29296783acc,jonny evans,manchester united,northern ireland,centre back,36,1988-01-03T00:00:00.000Z,1.88,35.0,0,0,6,3,321,1,0
+191,66c5b3caf98db29296783acf,christian eriksen,manchester united,denmark,attacking midfield,32,1992-02-14T00:00:00.000Z,1.82,14.0,0,1,15,8,795,2,0
+192,66c5b3caf98db29296783ad6,marcus rashford,manchester united,england,left forward,27,1997-10-31T00:00:00.000Z,1.85,10.0,4,3,20,13,1259,2,0
+193,66c5b3caf98db29296783ad3,daniel gore,manchester united,england,attacking midfield,20,2004-09-26T00:00:00.000Z,1.7,44.0,0,0,0,0,0,0,0
+194,66c5b3caf98db29296783ae0,john ruddy,newcastle,england,goalkeeper,38,1986-10-24T00:00:00.000Z,1.92,26.0,0,0,0,0,0,0,0
+195,66c5b3caf98db29296783ae4,fabian schar,newcastle,switzerland,centre back,32,1991-12-20T00:00:00.000Z,1.86,5.0,2,0,21,20,2021,5,1
+196,66c5b3caf98db29296783ae6,jamal lewis,newcastle,northern ireland,left back,26,1998-01-25T00:00:00.000Z,1.78,12.0,0,0,0,0,0,0,0
+197,66c5b3caf98db29296783aed,dan burn,newcastle,england,left back,32,1992-05-09T00:00:00.000Z,1.98,33.0,0,0,24,24,2374,7,0
+198,66c5b3caf98db29296783aef,isaac hayden,newcastle,jamaica,central midfield,29,1995-03-22T00:00:00.000Z,1.87,,0,0,0,0,0,0,0
+199,66c5b3caf98db29296783af2,sandro tonali,newcastle,italy,defensive midfield,24,2000-05-08T00:00:00.000Z,1.81,8.0,1,1,23,16,1702,5,0
+200,66c5b3caf98db29296783af6,joe white,newcastle,england,attacking midfield,21,2002-10-01T00:00:00.000Z,1.86,40.0,0,0,0,0,0,0,0
+201,66c5b3caf98db29296783af9,william osula,newcastle,denmark,centre forward,21,,1.86,18.0,0,0,9,0,124,0,0
+202,66c5b3caf98db29296783b00,garang kuol,newcastle,australia,centre forward,20,2004-09-15T00:00:00.000Z,1.75,38.0,0,0,0,0,0,0,0
+203,66c5b3caf98db29296783b02,alex paulsen,bournemouth,new zealand,goalkeeper,22,2002-07-04T00:00:00.000Z,1.83,1.0,0,0,0,0,0,0,0
+204,66c5b3caf98db29296783b03,william dennis,bournemouth,england,goalkeeper,24,2000-07-10T00:00:00.000Z,1.88,40.0,0,0,0,0,0,0,0
+205,66c5b3caf98db29296783b0e,lewis cook,bournemouth,england,central midfield,27,1997-02-03T00:00:00.000Z,1.75,4.0,1,3,29,27,2692,6,0
+206,66c5b3caf98db29296783b10,alex scott,bournemouth,england,central midfield,21,,1.78,8.0,0,0,12,2,445,1,0
+207,66c5b3caf98db29296783ad4,hannibal mejbri,manchester united,tunisia,attacking midfield,21,2003-01-21T00:00:00.000Z,1.83,46.0,0,0,0,0,0,0,0
+208,66c5b3caf98db29296783ad8,amad diallo,manchester united,ivory coast,right forward,22,2002-07-11T00:00:00.000Z,1.73,16.0,6,6,22,17,1718,3,0
+209,66c5b3caf98db29296783ada,antony,manchester united,brazil,right forward,24,2000-02-24T00:00:00.000Z,1.72,21.0,0,0,8,0,194,0,0
+210,66c5b3caf98db29296783adc,facundo pellistri,manchester united,uruguay,right forward,22,2001-12-20T00:00:00.000Z,1.75,28.0,0,0,0,0,0,0,0
+211,66c5b3caf98db29296783add,martin dubravka,newcastle,slovakia,goalkeeper,35,1989-01-15T00:00:00.000Z,1.91,1.0,0,0,10,10,983,0,0
+212,66c5b3caf98db29296783adf,nick pope,newcastle,england,goalkeeper,32,1992-04-19T00:00:00.000Z,1.91,22.0,0,0,15,15,1490,2,0
+213,66c5b3caf98db29296783ae1,mark gillespie,newcastle,england,goalkeeper,32,1992-03-27T00:00:00.000Z,1.86,29.0,0,0,0,0,0,0,0
+214,66c5b3caf98db29296783ae2,kieran trippier,newcastle,england,right back,34,1990-09-19T00:00:00.000Z,1.73,2.0,0,0,15,6,664,1,0
+215,66c5b3caf98db29296783ae8,emil krafth,newcastle,sweden,right back,30,1994-08-02T00:00:00.000Z,1.81,17.0,0,0,4,2,274,0,0
+216,66c5b3caf98db29296783aec,harrison ashby,newcastle,scotland,right back,22,2001-11-14T00:00:00.000Z,1.79,30.0,0,0,0,0,0,0,0
+217,66c5b3caf98db29296783af1,joelinton,newcastle,brazil,central midfield,28,1996-08-14T00:00:00.000Z,1.86,7.0,4,1,23,23,2065,9,0
+218,66c5b3caf98db29296783af4,sean longstaff,newcastle,england,central midfield,27,1997-10-30T00:00:00.000Z,1.81,36.0,0,1,19,8,862,2,0
+219,66c5b3caf98db29296783af7,lewis miley,newcastle,england,attacking midfield,18,2006-05-01T00:00:00.000Z,1.85,67.0,0,0,6,0,118,0,0
+220,66c5b3caf98db29296783af8,ryan fraser,southampton,scotland,left forward,30,1994-02-24T00:00:00.000Z,1.63,24.0,0,0,8,4,365,0,1
+221,66c5b3caf98db29296783aff,miguel almiron,newcastle,paraguay,right forward,30,1994-02-10T00:00:00.000Z,1.74,24.0,0,0,9,1,222,0,0
+222,66c5b3caf98db29296783b01,neto,arsenal,brazil,goalkeeper,35,1989-07-19T00:00:00.000Z,1.9,32.0,0,0,2,2,207,0,0
+223,66c5b3caf98db29296783b05,julian araujo,bournemouth,mexico,right back,23,2001-08-13T00:00:00.000Z,1.76,22.0,0,0,8,5,389,1,0
+224,66c5b3caf98db29296783b06,dean huijsen,bournemouth,spain,centre back,19,2005-04-14T00:00:00.000Z,1.95,2.0,2,0,24,19,1976,6,0
+225,66c5b3caf98db29296783b0b,marcos senesi,bournemouth,argentina,centre back,27,1997-05-10T00:00:00.000Z,1.85,5.0,0,0,11,11,968,4,0
+226,66c5b3caf98db29296783ad7,joshua zirkzee,manchester united,netherlands,centre forward,23,2001-05-22T00:00:00.000Z,1.93,11.0,3,1,28,12,1376,2,0
+227,66c5b3caf98db29296783ad9,alejandro garnacho,manchester united,argentina,left forward,20,2004-07-01T00:00:00.000Z,1.8,17.0,3,2,27,16,1724,1,0
+228,66c5b3caf98db29296783adb,jadon sancho,chelsea,england,left forward,24,2000-03-25T00:00:00.000Z,1.8,19.0,2,4,22,15,1449,1,0
+229,66c5b3caf98db29296783ae3,sven botman,newcastle,netherlands,centre back,24,2000-01-12T00:00:00.000Z,1.95,4.0,0,0,3,3,236,1,0
+230,66c5b3caf98db29296783ae5,jamaal lascelles,newcastle,england,centre back,31,1993-11-11T00:00:00.000Z,1.88,6.0,0,0,0,0,0,0,0
+231,66c5b3caf98db29296783aea,tino livramento,newcastle,england,right back,22,2002-11-12T00:00:00.000Z,1.73,21.0,0,0,24,19,1857,0,0
+232,66c5b3caf98db29296783af0,miodrag pivas,newcastle,serbia,defensive midfield,19,2005-05-17T00:00:00.000Z,1.88,,0,0,0,0,0,0,0
+233,66c5b3caf98db29296783af5,bruno guimaraes,newcastle,brazil,central midfield,27,1997-11-16T00:00:00.000Z,1.82,39.0,2,6,25,25,2300,4,0
+234,66c5b3caf98db29296783afa,callum wilson,newcastle,england,centre forward,32,1992-02-27T00:00:00.000Z,1.8,9.0,0,0,5,0,112,1,0
+235,66c5b3caf98db29296783afb,anthony gordon,newcastle,england,left forward,23,,1.82,10.0,6,6,24,23,2006,2,0
+236,66c5b3caf98db29296783afc,harvey barnes,newcastle,england,left forward,26,1997-12-09T00:00:00.000Z,1.82,11.0,5,1,20,6,905,0,0
+237,66c5b3caf98db29296783afd,alexander isak,newcastle,sweden,centre forward,25,,1.92,14.0,17,5,23,23,2017,1,0
+238,66c5b3caf98db29296783b07,milos kerkez,bournemouth,hungary,left back,21,2003-11-07T00:00:00.000Z,1.8,3.0,2,5,30,30,2840,4,0
+239,66c5b3caf98db29296783b08,chris mepham,bournemouth,wales,centre back,26,1997-11-05T00:00:00.000Z,1.9,6.0,0,0,0,0,0,0,0
+240,66c5b3caf98db29296783b0c,ilya zabarnyi,bournemouth,ukraine,centre back,22,2002-09-01T00:00:00.000Z,1.89,27.0,0,0,28,28,2729,2,1
+241,66c5b3caf98db29296783b11,marcus tavernier,bournemouth,england,left midfield,25,1999-03-22T00:00:00.000Z,1.78,16.0,3,4,23,17,1725,6,0
+242,66c5b3caf98db29296783ad5,rasmus hojlund,manchester united,denmark,centre forward,21,2003-02-04T00:00:00.000Z,1.91,9.0,2,0,23,16,1436,2,0
+243,66c5b3caf98db29296783ade,odisseas vlachodimos,newcastle,greece,goalkeeper,30,1994-04-26T00:00:00.000Z,1.91,19.0,0,0,0,0,0,0,0
+244,66c5b3caf98db29296783ae7,matt targett,newcastle,england,left back,29,1995-09-18T00:00:00.000Z,1.83,13.0,0,0,1,0,19,0,0
+245,66c5b3caf98db29296783ae9,lewis hall,newcastle,england,left back,20,2004-09-08T00:00:00.000Z,1.79,20.0,0,4,25,22,2172,3,0
+246,66c5b3caf98db29296783aeb,lloyd kelly,newcastle,england,left back,26,1998-10-06T00:00:00.000Z,1.9,25.0,0,1,10,4,375,2,0
+247,66c5b3caf98db29296783aee,alex murphy,newcastle,ireland,centre back,20,2004-06-25T00:00:00.000Z,1.88,37.0,0,0,0,0,0,0,0
+248,66c5b3caf98db29296783af3,joe willock,newcastle,england,central midfield,25,1999-08-20T00:00:00.000Z,1.86,28.0,0,1,22,7,803,2,0
+249,66c5b3caf98db29296783afe,jacob murphy,newcastle,england,left forward,29,1995-02-24T00:00:00.000Z,1.73,23.0,4,8,22,18,1502,2,0
+250,66c5b3caf98db29296783b04,mark travers,bournemouth,ireland,goalkeeper,25,1999-05-18T00:00:00.000Z,1.91,42.0,0,0,5,5,487,0,0
+251,66c5b3caf98db29296783b09,adam smith,bournemouth,england,right back,33,1991-04-29T00:00:00.000Z,1.74,15.0,0,0,17,12,1107,4,0
+252,66c5b3caf98db29296783b0a,james hill,bournemouth,england,centre back,22,2002-01-10T00:00:00.000Z,1.84,23.0,0,1,10,6,464,2,0
+253,66c5b3caf98db29296783b0d,max aarons,bournemouth,england,right back,24,2000-01-04T00:00:00.000Z,1.71,37.0,0,0,3,1,104,0,0
+254,66c5b3caf98db29296783b0f,ryan christie,bournemouth,scotland,attacking midfield,29,1995-02-22T00:00:00.000Z,1.78,10.0,2,3,29,27,2256,9,0
+255,66c5b3caf98db29296783b12,tyler adams,bournemouth,usa,defensive midfield,25,1999-02-14T00:00:00.000Z,1.75,12.0,0,3,20,14,1448,4,0
+256,66c5b3caf98db29296783b18,dango ouattara,bournemouth,burkina faso,right forward,22,2002-02-11T00:00:00.000Z,1.77,11.0,7,4,27,15,1659,1,0
+257,66c5b3caf98db29296783b1c,antoine semenyo,bournemouth,ghana,right forward,24,2000-01-07T00:00:00.000Z,1.85,24.0,7,4,29,29,2751,10,0
+258,66c5b3caf98db29296783b1f,matt turner,crystal palace,usa,goalkeeper,30,1994-06-24T00:00:00.000Z,1.91,30.0,0,0,0,0,0,0,0
+259,66c5b3caf98db29296783b22,joe worrall,nottingham forest,england,centre back,27,1997-01-10T00:00:00.000Z,1.9,4.0,0,0,0,0,0,0,0
+260,66c5b3caf98db29296783b23,murillo,nottingham forest,brazil,centre back,22,2002-07-04T00:00:00.000Z,1.84,5.0,1,0,27,27,2582,5,0
+261,66c5b3caf98db29296783b27,willy boly,nottingham forest,ivory coast,centre back,33,1991-02-03T00:00:00.000Z,1.95,30.0,0,0,5,1,185,1,0
+262,66c5b3caf98db29296783b2a,ramon sosa,nottingham forest,paraguay,right midfield,25,1999-08-31T00:00:00.000Z,1.78,24.0,1,0,14,1,336,1,0
+263,66c5b3caf98db29296783b2b,elliot anderson,nottingham forest,scotland,attacking midfield,22,2002-11-06T00:00:00.000Z,1.79,8.0,1,6,27,23,2010,5,0
+264,66c5b3caf98db29296783b33,taiwo awoniyi,nottingham forest,nigeria,centre forward,27,1997-08-12T00:00:00.000Z,1.83,9.0,1,0,22,2,412,0,0
+265,66c5b3caf98db29296783b35,callum hudsonodoi,nottingham forest,england,left forward,24,2000-11-07T00:00:00.000Z,1.78,14.0,4,2,24,21,1867,2,0
+266,66c5b3caf98db29296783b3c,josh bowler,nottingham forest,england,right forward,25,1999-03-05T00:00:00.000Z,1.75,38.0,0,0,0,0,0,0,0
+267,66c5b3caf98db29296783b3d,danny ward,leicester,wales,goalkeeper,31,1993-06-22T00:00:00.000Z,1.91,1.0,0,0,2,1,146,0,0
+268,66c5b3caf98db29296783b42,wout faes,leicester,belgium,centre back,26,1998-04-03T00:00:00.000Z,1.85,3.0,1,0,22,18,1891,3,0
+269,66c5b3caf98db29296783b48,luke thomas,leicester,england,left back,23,2001-06-10T00:00:00.000Z,1.81,33.0,0,0,2,2,192,0,0
+270,66c5b3caf98db29296783b4b,hamza choudhury,leicester,england,central midfield,27,1997-10-01T00:00:00.000Z,1.78,17.0,0,0,4,1,147,0,0
+271,66c5b3caf98db29296783b4d,wilfred ndidi,leicester,nigeria,central midfield,27,1996-12-16T00:00:00.000Z,1.84,6.0,0,4,16,16,1362,4,0
+272,66c5b3caf98db29296783b4f,facundo buonanotte,leicester,argentina,central midfield,19,2004-12-23T00:00:00.000Z,1.74,40.0,4,2,21,12,1242,6,0
+273,66c5b3caf98db29296783b13,hamed junior traore,bournemouth,ivory coast,attacking midfield,24,2000-02-16T00:00:00.000Z,1.77,22.0,0,0,0,0,0,0,0
+274,66c5b3caf98db29296783b15,philip billing,bournemouth,denmark,central midfield,28,1996-06-11T00:00:00.000Z,1.93,29.0,0,0,10,1,252,1,0
+275,66c5b3caf98db29296783b17,evanilson,bournemouth,brazil,centre forward,25,1999-10-06T00:00:00.000Z,1.83,9.0,6,0,23,20,1694,0,0
+276,66c5b3caf98db29296783b19,luis sinisterra,bournemouth,colombia,left forward,25,,1.72,17.0,1,1,13,1,453,0,0
+277,66c5b3caf98db29296783b1b,daniel jebbison,bournemouth,england,centre forward,21,2003-08-13T00:00:00.000Z,1.9,21.0,0,0,10,0,159,1,0
+278,66c5b3caf98db29296783b1d,enes unal,bournemouth,turkiye,centre forward,27,1997-05-10T00:00:00.000Z,1.87,26.0,2,1,17,2,444,2,0
+279,66c5b3caf98db29296783b1e,jaidon anthony,bournemouth,england,centre forward,24,1999-12-01T00:00:00.000Z,1.83,32.0,0,0,0,0,0,0,0
+280,66c5b3caf98db29296783b21,carlos miguel,nottingham forest,brazil,goalkeeper,26,1998-10-09T00:00:00.000Z,2.04,33.0,0,0,0,0,0,0,0
+281,66c5b3caf98db29296783b25,andrew omobamidele,nottingham forest,ireland,centre back,22,2002-06-23T00:00:00.000Z,1.88,12.0,0,0,0,0,0,0,0
+282,66c5b3caf98db29296783b26,harry toffolo,nottingham forest,england,left back,29,1995-08-19T00:00:00.000Z,1.83,15.0,0,0,3,0,72,0,0
+283,66c5b3caf98db29296783b2f,nicolas dominguez,nottingham forest,argentina,central midfield,26,1998-06-28T00:00:00.000Z,1.79,16.0,0,0,24,15,1439,7,0
+284,66c5b3caf98db29296783b31,danilo,nottingham forest,brazil,defensive midfield,23,2001-04-29T00:00:00.000Z,1.77,28.0,0,0,5,3,181,0,0
+285,66c5b3caf98db29296783b3f,daniel iversen,leicester,denmark,goalkeeper,27,1997-07-19T00:00:00.000Z,1.91,31.0,0,0,0,0,0,0,0
+286,66c5b3caf98db29296783b40,jakub stolarczyk,leicester,poland,goalkeeper,23,2000-12-19T00:00:00.000Z,1.94,41.0,0,0,6,6,582,1,0
+287,66c5b3caf98db29296783b49,oliver skipp,leicester,england,defensive midfield,24,2000-09-16T00:00:00.000Z,1.75,22.0,0,0,15,7,845,4,0
+288,66c5b3caf98db29296783b4a,harry winks,leicester,england,central midfield,28,1996-02-02T00:00:00.000Z,1.78,8.0,0,2,19,17,1554,3,0
+289,66c5b3caf98db29296783b50,jamie vardy,leicester,england,centre forward,37,1987-01-11T00:00:00.000Z,1.78,9.0,7,3,23,23,1963,4,0
+290,66c5b3caf98db29296783b52,bobby reid,leicester,jamaica,right forward,31,1993-02-02T00:00:00.000Z,1.7,14.0,1,2,17,5,626,1,0
+291,66c5b3caf98db29296783b14,gavin kilkenny,bournemouth,ireland,central midfield,24,2000-02-01T00:00:00.000Z,1.75,28.0,0,0,0,0,0,0,0
+292,66c5b3caf98db29296783b16,david brooks,bournemouth,wales,right forward,27,1997-07-08T00:00:00.000Z,1.73,7.0,2,0,23,8,835,3,0
+293,66c5b3caf98db29296783b28,nikola milenkovic,nottingham forest,serbia,centre back,27,1997-10-12T00:00:00.000Z,1.95,31.0,3,2,27,27,2636,3,0
+294,66c5b3caf98db29296783b2d,elliott anderson,nottingham forest,scotland,attacking midfield,21,2002-11-06T00:00:00.000Z,1.79,8.0,0,0,0,0,0,0,0
+295,66c5b3caf98db29296783b30,ryan yates,nottingham forest,australia,central midfield,26,1997-11-21T00:00:00.000Z,1.9,22.0,1,0,25,15,1691,7,0
+296,66c5b3caf98db29296783b32,jonjo shelvey,nottingham forest,england,central midfield,32,1992-02-27T00:00:00.000Z,1.83,31.0,0,0,0,0,0,0,0
+297,66c5b3caf98db29296783b34,chris wood,nottingham forest,new zealand,centre forward,32,1991-12-07T00:00:00.000Z,1.91,11.0,18,2,28,27,2348,1,0
+298,66c5b3caf98db29296783b36,alex mighten,nottingham forest,england,right forward,22,2002-04-11T00:00:00.000Z,1.71,17.0,0,0,0,0,0,0,0
+299,66c5b3caf98db29296783b43,conor coady,leicester,england,centre back,31,1993-02-25T00:00:00.000Z,1.85,4.0,0,0,10,8,773,1,0
+300,66c5b3caf98db29296783b47,jannik vestergaard,leicester,denmark,centre back,32,1992-08-03T00:00:00.000Z,1.99,23.0,0,0,16,15,1332,5,0
+301,66c5b3caf98db29296783b4c,boubakary soumare,leicester,france,central midfield,25,1999-02-27T00:00:00.000Z,1.88,24.0,0,0,18,14,1395,8,0
+302,66c5b3caf98db29296783b4e,michael golding,leicester,england,central midfield,18,2006-05-23T00:00:00.000Z,1.78,34.0,0,0,0,0,0,0,0
+303,66c5b3caf98db29296783b1a,justin kluivert,bournemouth,netherlands,left forward,25,1999-05-05T00:00:00.000Z,1.72,19.0,12,6,29,25,2108,6,0
+304,66c5b3caf98db29296783b20,matz sels,nottingham forest,belgium,goalkeeper,32,1992-02-26T00:00:00.000Z,1.88,26.0,0,0,28,28,2743,2,0
+305,66c5b3caf98db29296783b24,neco williams,nottingham forest,wales,right back,23,2001-04-13T00:00:00.000Z,1.83,7.0,1,1,25,18,1863,4,0
+306,66c5b3caf98db29296783b29,ola aina,nottingham forest,nigeria,right back,28,1996-10-08T00:00:00.000Z,1.84,34.0,2,1,28,28,2634,2,0
+307,66c5b3caf98db29296783b2c,ibrahim sangare,nottingham forest,ivory coast,defensive midfield,26,1997-12-02T00:00:00.000Z,1.91,6.0,0,1,6,3,298,2,0
+308,66c5b3caf98db29296783b2e,morgan gibbswhite,nottingham forest,england,attacking midfield,24,2000-01-27T00:00:00.000Z,1.78,10.0,5,7,24,24,2015,7,1
+309,66c5b3caf98db29296783b37,eric da silva moreira,nottingham forest,germany,right forward,18,2006-05-03T00:00:00.000Z,1.85,17.0,0,0,2,0,34,0,0
+310,66c5b3caf98db29296783b38,jota silva,nottingham forest,portugal,centre forward,25,1999-07-31T00:00:00.000Z,1.76,20.0,2,1,25,4,874,4,0
+311,66c5b3caf98db29296783b39,anthony elanga,nottingham forest,sweden,left forward,22,2002-04-27T00:00:00.000Z,1.78,21.0,5,8,28,22,1875,1,0
+312,66c5b3caf98db29296783b3a,emmanuel dennis,nottingham forest,nigeria,centre forward,27,,1.74,25.0,0,0,0,0,0,0,0
+313,66c5b3caf98db29296783b3b,hwang ui jo,nottingham forest,south korea,centre forward,32,1992-08-28T00:00:00.000Z,1.85,35.0,0,0,0,0,0,0,0
+314,66c5b3caf98db29296783b3e,mads hermansen,leicester,denmark,goalkeeper,24,2000-07-11T00:00:00.000Z,1.87,30.0,0,0,18,18,1705,0,0
+315,66c5b3caf98db29296783b41,james justin,leicester,england,right back,26,1998-02-23T00:00:00.000Z,1.83,2.0,2,1,24,24,2160,3,0
+316,66c5b3caf98db29296783b44,caleb okoli,leicester,italy,centre back,23,2001-07-13T00:00:00.000Z,1.91,5.0,0,0,15,10,1011,2,0
+317,66c5b3caf98db29296783b45,victor kristiansen,leicester,denmark,left back,21,2002-12-16T00:00:00.000Z,1.81,16.0,0,1,22,22,2079,1,0
+318,66c5b3caf98db29296783b46,ricardo pereira,leicester,portugal,right back,31,1993-10-06T00:00:00.000Z,1.75,21.0,0,0,2,2,148,1,0
+319,66c5b3caf98db29296783b51,stephy mavididi,leicester,england,left forward,26,1998-05-31T00:00:00.000Z,1.82,10.0,3,1,23,14,1404,2,0
+320,66c5b3caf98db29296783b53,issahaku fatawu,leicester,ghana,right forward,20,2004-03-08T00:00:00.000Z,1.77,7.0,0,2,11,6,637,0,0
+321,66c5b3caf98db29296783b5b,alfie whiteman,tottenham,england,goalkeeper,26,1998-10-02T00:00:00.000Z,1.88,41.0,0,0,0,0,0,0,0
+322,66c5b3caf98db29296783b56,thomas cannon,leicester,ireland,centre forward,21,2002-12-28T00:00:00.000Z,1.8,28.0,0,0,0,0,0,0,0
+323,66c5b3caf98db29296783b57,kasey mcateer,leicester,ireland,right forward,22,2001-11-22T00:00:00.000Z,1.77,35.0,0,1,11,4,425,1,0
+324,66c5b3caf98db29296783b58,guglielmo vicario,tottenham,italy,goalkeeper,28,1996-10-07T00:00:00.000Z,1.94,1.0,0,0,17,17,1648,1,0
+325,66c5b3caf98db29296783b5a,brandon austin,tottenham,england,goalkeeper,25,1999-01-08T00:00:00.000Z,1.88,40.0,0,0,1,1,105,0,0
+326,66c5b3caf98db29296783b5e,destiny udogie,tottenham,italy,left back,21,2002-11-28T00:00:00.000Z,1.88,13.0,0,1,22,21,1754,2,0
+327,66c5b3caf98db29296783b64,micky van de ven,tottenham,netherlands,centre back,23,2001-04-19T00:00:00.000Z,1.93,37.0,0,2,10,9,871,4,0
+328,66c5b3caf98db29296783b66,james maddison,tottenham,england,attacking midfield,27,1996-11-23T00:00:00.000Z,1.75,10.0,9,5,27,17,1632,6,0
+329,66c5b3caf98db29296783b6a,pape sarr,tottenham,senegal,central midfield,22,2002-09-14T00:00:00.000Z,1.84,29.0,3,1,27,16,1508,5,0
+330,66c5b3caf98db29296783b6e,richarlison,tottenham,brazil,centre forward,27,1997-05-10T00:00:00.000Z,1.84,9.0,2,1,8,2,378,1,0
+331,66c5b3caf98db29296783b6f,timo werner,tottenham,germany,centre forward,28,1996-03-06T00:00:00.000Z,1.8,16.0,0,3,18,4,612,0,0
+332,66c5b3caf98db29296783b70,dominic solanke,tottenham,england,centre forward,27,1997-09-14T00:00:00.000Z,1.86,19.0,7,3,20,20,1913,0,0
+333,66c5b3caf98db29296783b73,manor solomon,tottenham,israel,left forward,25,1999-07-24T00:00:00.000Z,1.7,27.0,0,0,0,0,0,0,0
+334,66c5b3caf98db29296783b7b,joachim andersen,fulham,denmark,centre back,28,1996-05-31T00:00:00.000Z,1.92,5.0,0,0,21,21,2048,5,1
+335,66c5b3caf98db29296783b7e,nathaniel clyne,crystal palace,england,right back,33,1991-04-05T00:00:00.000Z,1.75,17.0,0,0,11,4,457,1,0
+336,66c5b3caf98db29296783b81,jefferson lerma,crystal palace,colombia,defensive midfield,30,,1.79,8.0,0,0,23,18,1656,5,0
+337,66c5b3caf98db29296783b8a,ismaila sarr,crystal palace,senegal,right forward,26,1998-02-25T00:00:00.000Z,1.85,7.0,7,3,28,21,2039,3,0
+338,66c5b3caf98db29296783b90,alphonse areola,west ham,france,goalkeeper,31,1993-02-27T00:00:00.000Z,1.95,23.0,0,0,14,13,1281,0,0
+339,66c5b3caf98db29296783b92,kurt zouma,west ham,france,centre back,29,1994-10-27T00:00:00.000Z,1.9,4.0,0,0,0,0,0,0,0
+340,66c5b3caf98db29296783b5c,sergio reguilon,tottenham,spain,left back,27,1996-12-16T00:00:00.000Z,1.78,3.0,0,0,3,0,155,2,0
+341,66c5b3caf98db29296783b5d,radu dragusin,tottenham,romania,centre back,22,2002-02-03T00:00:00.000Z,1.91,6.0,0,0,16,14,1365,1,0
+342,66c5b3caf98db29296783b61,djed spence,tottenham,england,right back,24,2000-08-09T00:00:00.000Z,1.85,24.0,1,1,15,11,1160,2,1
+343,66c5b3caf98db29296783b63,ashley phillips,tottenham,england,centre back,19,2005-06-26T00:00:00.000Z,1.92,35.0,0,0,0,0,0,0,0
+344,66c5b3caf98db29296783b68,lucas bergvall,tottenham,sweden,central midfield,18,2006-02-02T00:00:00.000Z,1.86,15.0,0,1,22,8,1055,3,0
+345,66c5b3caf98db29296783b6c,wilson odobert,tottenham,france,right forward,19,2004-11-28T00:00:00.000Z,1.82,28.0,0,0,8,4,380,0,0
+346,66c5b3caf98db29296783b6d,heungmin son,tottenham,south korea,centre forward,32,1992-07-08T00:00:00.000Z,1.84,7.0,7,9,26,21,1988,1,0
+347,66c5b3caf98db29296783b72,brennan johnson,tottenham,wales,right forward,23,2001-05-23T00:00:00.000Z,1.86,22.0,9,3,26,20,1883,4,0
+348,66c5b3caf98db29296783b78,joel ward,crystal palace,england,right back,35,1989-10-29T00:00:00.000Z,1.86,2.0,0,0,0,0,0,0,0
+349,66c5b3caf98db29296783b7f,chris richards,crystal palace,usa,centre back,24,2000-03-28T00:00:00.000Z,1.88,26.0,0,0,17,15,1438,2,0
+350,66c5b3caf98db29296783b80,chadi riad,crystal palace,morocco,centre back,21,2003-06-17T00:00:00.000Z,1.87,34.0,0,0,1,1,93,0,0
+351,66c5b3caf98db29296783b82,eberechi eze,crystal palace,england,attacking midfield,26,1998-06-29T00:00:00.000Z,1.78,10.0,2,6,24,22,2027,1,0
+352,66c5b3caf98db29296783b89,naouirou ahamada,crystal palace,france,central midfield,22,2002-03-29T00:00:00.000Z,1.83,29.0,0,0,0,0,0,0,0
+353,66c5b3caf98db29296783b8e,lukasz fabianski,west ham,poland,goalkeeper,39,1985-04-18T00:00:00.000Z,1.9,1.0,0,0,13,12,1171,2,0
+354,66c5b3caf98db29296783b91,aaron cresswell,west ham,england,left back,34,1989-12-15T00:00:00.000Z,1.7,3.0,0,0,10,3,369,2,0
+355,66c5b3caf98db29296783b5f,cristian romero,tottenham,argentina,centre back,26,1998-04-27T00:00:00.000Z,1.85,17.0,1,0,14,14,1183,1,0
+356,66c5b3caf98db29296783b65,yves bissouma,tottenham,mali,central midfield,28,1996-08-30T00:00:00.000Z,1.82,8.0,2,0,22,14,1233,5,0
+357,66c5b3caf98db29296783b6b,rodrigo bentancur,tottenham,uruguay,central midfield,27,1997-06-05T00:00:00.000Z,1.87,30.0,2,0,19,16,1327,7,0
+358,66c5b3caf98db29296783b71,dejan kulusevski,tottenham,sweden,right forward,24,2000-04-25T00:00:00.000Z,1.86,21.0,7,4,27,24,2340,4,0
+359,66c5b3caf98db29296783b79,tyrick mitchell,crystal palace,england,left back,25,1999-09-01T00:00:00.000Z,1.75,3.0,0,4,28,28,2549,2,0
+360,66c5b3caf98db29296783b7c,marc guehi,crystal palace,england,centre back,24,,1.82,6.0,3,2,27,27,2621,7,0
+361,66c5b3caf98db29296783b86,will hughes,crystal palace,england,central midfield,29,1995-04-17T00:00:00.000Z,1.85,19.0,0,3,24,19,1697,10,0
+362,66c5b3caf98db29296783b87,adam wharton,crystal palace,england,central midfield,20,2004-06-02T00:00:00.000Z,1.85,20.0,0,0,13,10,892,1,0
+363,66c5b3caf98db29296783b88,cheick doucoure,crystal palace,mali,central midfield,24,2000-01-08T00:00:00.000Z,1.8,28.0,0,0,13,4,511,1,0
+364,66c5b3caf98db29296783b8b,jordan ayew,leicester,ghana,centre forward,33,1991-09-11T00:00:00.000Z,1.82,18.0,4,0,23,14,1367,6,0
+365,66c5b3caf98db29296783b8d,odsonne edouard,leicester,france,centre forward,26,1998-01-16T00:00:00.000Z,1.87,29.0,0,0,6,1,178,0,0
+366,66c5b3caf98db29296783b54,patson daka,leicester,zambia,centre forward,26,1998-10-09T00:00:00.000Z,1.85,20.0,1,0,13,1,407,0,0
+367,66c5b3caf98db29296783b55,wanya marcal,leicester,portugal,right forward,21,2002-10-19T00:00:00.000Z,1.81,27.0,0,0,0,0,0,0,0
+368,66c5b3caf98db29296783b59,fraser forster,tottenham,england,goalkeeper,36,1988-03-17T00:00:00.000Z,2.01,20.0,0,0,7,7,685,0,0
+369,66c5b3caf98db29296783b60,pedro porro,tottenham,spain,right back,25,1999-09-13T00:00:00.000Z,1.73,23.0,2,5,28,24,2483,2,0
+370,66c5b3caf98db29296783b62,ben davies,tottenham,wales,left back,31,1993-04-24T00:00:00.000Z,1.81,33.0,0,0,9,8,778,2,0
+371,66c5b3caf98db29296783b67,archie gray,tottenham,england,central midfield,18,2006-03-12T00:00:00.000Z,1.78,14.0,0,0,21,13,1459,0,0
+372,66c5b3caf98db29296783b69,giovani lo celso,tottenham,argentina,central midfield,28,1996-04-09T00:00:00.000Z,1.77,18.0,0,0,0,0,0,0,0
+373,66c5b3caf98db29296783b74,sam johnstone,wolves,england,goalkeeper,31,1993-03-25T00:00:00.000Z,1.93,31.0,0,0,7,7,701,0,0
+374,66c5b3caf98db29296783b75,dean henderson,crystal palace,england,goalkeeper,27,1997-03-12T00:00:00.000Z,1.88,1.0,0,0,28,28,2717,3,0
+375,66c5b3caf98db29296783b76,remi matthews,crystal palace,england,goalkeeper,30,1994-02-10T00:00:00.000Z,1.92,31.0,0,0,0,0,0,0,0
+376,66c5b3caf98db29296783b77,joseph whitworth,crystal palace,england,goalkeeper,20,2004-02-29T00:00:00.000Z,1.79,41.0,0,0,0,0,0,0,0
+377,66c5b3caf98db29296783b7a,rob holding,crystal palace,england,centre back,29,1995-09-20T00:00:00.000Z,1.89,4.0,0,0,0,0,0,0,0
+378,66c5b3caf98db29296783b7d,daniel munoz,crystal palace,colombia,right back,28,,1.81,12.0,3,4,27,27,2522,7,0
+379,66c5b3caf98db29296783b83,matheus franca,crystal palace,brazil,attacking midfield,20,2004-04-01T00:00:00.000Z,1.84,11.0,0,0,0,0,0,0,0
+380,66c5b3caf98db29296783b84,jeffrey schlupp,crystal palace,ghana,left midfield,31,1992-12-23T00:00:00.000Z,1.78,15.0,0,0,12,0,175,0,0
+381,66c5b3caf98db29296783b85,daichi kamada,crystal palace,japan,attacking midfield,28,,1.84,18.0,0,0,24,10,1110,2,1
+382,66c5b3caf98db29296783b8c,jean philippe mateta,crystal palace,france,centre forward,27,1997-06-28T00:00:00.000Z,1.92,14.0,12,2,27,25,2279,2,0
+383,66c5b3caf98db29296783b8f,wesley foderingham,west ham,england,goalkeeper,33,1991-01-14T00:00:00.000Z,1.85,21.0,0,0,0,0,0,0,0
+384,66c5b3caf98db29296783b93,vladimir coufal,west ham,czech republic,right back,32,1992-08-22T00:00:00.000Z,1.74,5.0,0,0,15,8,827,2,0
+385,66c5b3caf98db29296783b96,max kilman,west ham,england,centre back,27,1997-05-23T00:00:00.000Z,1.94,26.0,0,1,25,25,2365,3,0
+386,66c5b3caf98db29296783b98,aaron wanbissaka,west ham,england,right back,26,1997-11-26T00:00:00.000Z,1.83,29.0,2,1,24,23,2254,1,0
+387,66c5b3caf98db29296783ba2,andrew irving,west ham,scotland,central midfield,24,2000-05-13T00:00:00.000Z,1.9,39.0,0,0,9,1,223,1,0
+388,66c5b3caf98db29296783ba5,michail antonio,west ham,jamaica,centre forward,34,1990-03-28T00:00:00.000Z,1.8,9.0,1,1,14,11,862,1,0
+389,66c5b3caf98db29296783ba6,niclas fullkrug,west ham,germany,centre forward,31,1993-02-09T00:00:00.000Z,1.89,11.0,2,1,9,3,420,1,0
+390,66c5b3caf98db29296783bab,callum marshall,west ham,northern ireland,central midfield,19,2004-11-28T00:00:00.000Z,1.72,50.0,0,0,0,0,0,0,0
+391,66c5b3caf98db29296783bb3,taylor harwoodbellis,southampton,england,centre back,22,2002-01-30T00:00:00.000Z,1.88,6.0,1,0,26,24,2322,7,0
+392,66c5b3caf98db29296783bb6,nathan woodgordon,southampton,england,centre back,22,2002-05-31T00:00:00.000Z,1.88,15.0,0,0,9,7,682,2,0
+393,66c5b3caf98db29296783bb8,charlie taylor,southampton,england,left back,31,1993-09-18T00:00:00.000Z,1.83,21.0,0,0,7,2,319,1,0
+394,66c5b3caf98db29296783bba,jan bednarek,southampton,poland,centre back,28,1996-04-12T00:00:00.000Z,1.89,35.0,2,0,23,23,2061,5,0
+395,66c5b3caf98db29296783bbc,lesley ugochukwu,southampton,france,defensive midfield,20,2004-03-26T00:00:00.000Z,1.91,26.0,0,1,17,10,1096,4,0
+396,66c5b3caf98db29296783bc0,william smallbone,southampton,ireland,central midfield,24,2000-02-21T00:00:00.000Z,1.73,8.0,1,0,12,6,620,1,0
+397,66c5b3caf98db29296783bc3,shea charles,southampton,northern ireland,central midfield,20,2003-11-05T00:00:00.000Z,1.89,24.0,0,0,0,0,0,0,0
+398,66c5b3caf98db29296783bc4,cameron archer,southampton,england,centre forward,22,2001-12-09T00:00:00.000Z,1.75,19.0,2,0,26,11,1295,0,0
+399,66c5b3caf98db29296783bc9,paul onuachu,southampton,nigeria,centre forward,30,1994-05-28T00:00:00.000Z,2.01,32.0,3,1,18,8,882,3,0
+400,66c5b3caf98db29296783bcc,samuel amoameyaw,southampton,england,right forward,18,2006-07-18T00:00:00.000Z,1.66,27.0,0,0,2,0,43,1,0
+401,66c5b3caf98db29296783bda,sasa lukic,fulham,serbia,central midfield,28,,1.82,20.0,0,2,22,21,1826,10,0
+402,66c5b3caf98db29296783bdb,ryan sessegnon,fulham,england,left midfield,24,2000-05-18T00:00:00.000Z,1.78,30.0,2,0,7,1,133,0,0
+403,66c5b3caf98db29296783bdd,raul jimenez,fulham,mexico,centre forward,33,,1.87,7.0,10,3,29,23,1929,2,0
+404,66c5b3caf98db29296783be0,adama traore,fulham,spain,right forward,28,1996-01-25T00:00:00.000Z,1.78,11.0,2,5,26,15,1520,2,0
+405,66c5b3caf98db29296783be4,robert sanchez,chelsea,spain,goalkeeper,27,1997-11-18T00:00:00.000Z,1.97,1.0,0,0,22,22,2162,5,0
+406,66c5b3caf98db29296783be8,lucas bergstrom,chelsea,finland,goalkeeper,22,2002-09-05T00:00:00.000Z,2.05,47.0,0,0,0,0,0,0,0
+407,66c5b3caf98db29296783be9,axel disasi,chelsea,france,centre back,26,1998-03-11T00:00:00.000Z,1.9,2.0,1,0,10,8,781,2,0
+408,66c5b3caf98db29296783bec,benoit badiashile,chelsea,france,centre back,23,2001-03-26T00:00:00.000Z,1.94,5.0,0,0,5,3,375,0,0
+409,66c5b3caf98db29296783bef,ben chilwell,chelsea,england,left back,27,1996-12-21T00:00:00.000Z,1.8,21.0,0,0,3,0,68,1,0
+410,66c5b3caf98db29296783bf0,reece james,chelsea,england,right back,24,1999-12-08T00:00:00.000Z,1.8,24.0,1,0,11,8,745,1,0
+411,66c5b3caf98db29296783bf2,wesley fofana,chelsea,france,centre back,23,2000-12-17T00:00:00.000Z,1.86,29.0,0,0,13,13,1209,7,0
+412,66c5b3caf98db29296783bf9,moises caicedo,chelsea,ecuador,defensive midfield,23,2001-11-02T00:00:00.000Z,1.78,25.0,1,2,28,28,2638,9,0
+413,66c5b3caf98db29296783bfa,cesare casadei,chelsea,italy,central midfield,21,2003-01-10T00:00:00.000Z,1.86,31.0,0,0,0,0,0,0,0
+414,66c5b3caf98db29296783bfc,renato veiga,chelsea,portugal,left back,21,2003-07-29T00:00:00.000Z,1.88,40.0,0,0,7,1,251,2,0
+415,66c5b3caf98db29296783c05,pedro neto,chelsea,portugal,right forward,24,2000-03-09T00:00:00.000Z,1.72,7.0,3,4,25,15,1596,6,0
+416,66c5b3caf98db29296783c0b,daniel bentley,wolves,england,goalkeeper,31,1993-07-13T00:00:00.000Z,1.93,25.0,0,0,0,0,0,0,0
+417,66c5b3caf98db29296783c0d,matt doherty,wolves,ireland,right back,32,1992-01-16T00:00:00.000Z,1.85,2.0,2,1,21,18,1766,5,0
+418,66c5b3caf98db29296783c0e,rayan ait nouri,wolves,algeria,left back,23,,1.8,3.0,3,5,28,28,2549,5,1
+419,66c5b3caf98db29296783c18,boubacar traore,wolves,mali,defensive midfield,23,2001-08-20T00:00:00.000Z,1.83,6.0,0,0,0,0,0,0,0
+420,66c5b3caf98db29296783c23,sasa kalajdzic,wolves,austria,centre forward,27,1997-07-07T00:00:00.000Z,2.0,18.0,0,0,0,0,0,0,0
+421,66c5b3caf98db29296783c26,pablo sarabia,wolves,spain,right forward,32,1992-11-05T00:00:00.000Z,1.74,21.0,1,1,15,6,634,2,0
+422,66c5b3caf98db29296783c28,chiquinho,wolves,portugal,left forward,24,2000-02-05T00:00:00.000Z,1.79,23.0,0,0,1,0,12,0,0
+423,66c5b3caf98db29296783c2b,cieran slicker,ipswich,scotland,goalkeeper,22,2002-09-15T00:00:00.000Z,1.82,13.0,0,0,0,0,0,0,0
+424,66c5b3caf98db29296783c30,luke woolfenden,ipswich,england,centre back,26,1998-10-21T00:00:00.000Z,1.8,6.0,0,0,13,10,1104,2,0
+425,66c5b3caf98db29296783c36,axel tuanzebe,ipswich,dr congo,centre back,27,1997-11-14T00:00:00.000Z,1.85,40.0,0,1,14,13,1217,4,1
+426,66c5b3caf98db29296783c37,janoi donacien,ipswich,st. lucia,centre back,30,1993-11-03T00:00:00.000Z,1.83,44.0,0,0,0,0,0,0,0
+427,66c5b3caf98db29296783c3c,wes burns,ipswich,wales,right midfield,29,1994-11-23T00:00:00.000Z,1.73,7.0,0,1,18,12,980,1,0
+428,66c5b3caf98db29296783c47,nathan broadhead,ipswich,wales,centre forward,26,1998-05-04T00:00:00.000Z,1.78,33.0,0,0,13,4,518,1,0
+429,66c5b3caf98db29296783c4c,mason holgate,everton,jamaica,centre back,27,1996-10-22T00:00:00.000Z,1.87,4.0,0,0,2,0,38,0,0
+430,66c5b3caf98db29296783c51,vitali mykolenko,everton,ukraine,left back,25,1999-05-29T00:00:00.000Z,1.8,19.0,0,1,27,27,2556,2,0
+431,66c5b3caf98db29296783c53,jarrad branthwaite,everton,england,centre back,22,2002-06-27T00:00:00.000Z,1.95,32.0,0,1,21,19,1866,3,0
+432,66c5b3caf98db29296783c5a,dominic calvertlewin,everton,england,centre forward,27,1997-03-16T00:00:00.000Z,1.89,9.0,3,1,23,20,1740,2,0
+433,66c5b3caf98db29296783c5b,iliman ndiaye,everton,senegal,centre forward,24,,1.8,10.0,6,0,25,22,2022,3,0
+434,66c5b3caf98db29296783c5d,neal maupay,everton,france,centre forward,28,1996-08-14T00:00:00.000Z,1.73,21.0,0,0,0,0,0,0,0
+435,66c5b3caf98db29296783b9a,junior robinson,west ham,england,right back,20,2004-04-06T00:00:00.000Z,,44.0,0,0,0,0,0,0,0
+436,66c5b3caf98db29296783b9b,james wardprowse,nottingham forest,england,central midfield,30,1994-11-01T00:00:00.000Z,1.77,18.0,0,1,11,5,540,1,1
+437,66c5b3caf98db29296783b9c,lucas paqueta,west ham,brazil,attacking midfield,27,1997-08-27T00:00:00.000Z,1.8,10.0,4,0,23,20,1812,6,0
+438,66c5b3caf98db29296783b9d,mohammed kudus,west ham,ghana,attacking midfield,24,2000-08-02T00:00:00.000Z,1.77,14.0,3,1,20,20,1748,0,1
+439,66c5b3caf98db29296783ba1,tomas soucek,west ham,czech republic,defensive midfield,29,1995-02-27T00:00:00.000Z,1.92,28.0,5,1,23,20,1909,8,0
+440,66c5b3caf98db29296783ba4,crysencio summerville,west ham,netherlands,centre forward,23,2001-10-30T00:00:00.000Z,1.74,7.0,1,1,19,7,894,2,0
+441,66c5b3caf98db29296783bae,mateusz lis,southampton,poland,goalkeeper,27,1997-02-27T00:00:00.000Z,1.92,30.0,0,0,0,0,0,0,0
+442,66c5b3caf98db29296783bb7,yukinari sugawara,southampton,japan,right back,24,2000-06-28T00:00:00.000Z,1.79,16.0,1,1,26,15,1564,4,0
+443,66c5b3caf98db29296783bc2,carlos alcaraz,southampton,argentina,central midfield,21,2002-11-30T00:00:00.000Z,1.83,22.0,1,1,6,2,283,2,0
+444,66c5b3caf98db29296783bc7,ben brereton,southampton,chile,centre forward,25,1999-04-18T00:00:00.000Z,1.85,17.0,0,0,10,4,518,1,0
+445,66c5b3caf98db29296783bca,kamaldeen sulemana,southampton,ghana,left forward,22,2002-02-15T00:00:00.000Z,1.75,20.0,1,0,17,8,858,0,0
+446,66c5b3caf98db29296783bcd,bernd leno,fulham,germany,goalkeeper,32,1992-03-04T00:00:00.000Z,1.9,1.0,0,1,29,29,2833,3,0
+447,66c5b3caf98db29296783bce,steven benda,fulham,germany,goalkeeper,26,1998-10-01T00:00:00.000Z,1.92,23.0,0,0,0,0,0,0,0
+448,66c5b3caf98db29296783bd0,calvin bassey,fulham,nigeria,left back,24,1999-12-31T00:00:00.000Z,1.85,3.0,1,0,28,27,2652,4,0
+449,66c5b3caf98db29296783bd2,timothy castagne,fulham,belgium,right back,28,1995-12-05T00:00:00.000Z,1.85,21.0,0,1,19,14,1477,1,0
+450,66c5b3caf98db29296783bd9,andreas pereira,fulham,brazil,attacking midfield,28,1996-01-01T00:00:00.000Z,1.78,18.0,2,4,26,19,1649,6,0
+451,66c5b3caf98db29296783be5,filip jorgensen,chelsea,sweden,goalkeeper,22,2002-04-16T00:00:00.000Z,1.9,12.0,0,0,6,6,594,0,0
+452,66c5b3caf98db29296783beb,tosin adarabioyo,chelsea,england,centre back,27,1997-09-24T00:00:00.000Z,1.96,4.0,1,1,15,10,1113,2,0
+453,66c5b3caf98db29296783bf1,malo gusto,chelsea,france,right back,21,2003-05-19T00:00:00.000Z,1.78,27.0,0,1,24,17,1705,3,0
+454,66c5b3caf98db29296783bfd,romeo lavia,chelsea,belgium,defensive midfield,20,2004-01-06T00:00:00.000Z,1.81,45.0,0,1,11,8,572,4,0
+455,66c5b3caf98db29296783bff,romelu lukaku,chelsea,belgium,centre forward,31,1993-05-13T00:00:00.000Z,1.91,10.0,0,0,0,0,0,0,0
+456,66c5b3caf98db29296783c00,mykhailo mudryk,chelsea,ukraine,left forward,23,2001-01-05T00:00:00.000Z,1.75,10.0,0,0,7,1,209,0,0
+457,66c5b3caf98db29296783c01,noni madueke,chelsea,england,right forward,22,2002-03-10T00:00:00.000Z,1.82,11.0,7,3,23,19,1506,3,0
+458,66c5b3caf98db29296783c03,nicolas jackson,chelsea,senegal,centre forward,23,,1.88,15.0,9,5,23,22,1815,5,0
+459,66c5b3caf98db29296783c08,angelo borges,chelsea,brazil,right forward,19,2004-12-21T00:00:00.000Z,1.8,41.0,0,0,0,0,0,0,0
+460,66c5b3caf98db29296783c09,louie moulden,crystal palace,england,goalkeeper,22,2002-01-06T00:00:00.000Z,1.9,,0,0,0,0,0,0,0
+461,66c5b3caf98db29296783c0a,jose sa,wolves,portugal,goalkeeper,31,1993-01-17T00:00:00.000Z,1.92,1.0,0,0,22,22,2175,1,0
+462,66c5b3caf98db29296783c10,yerson mosquera,wolves,colombia,centre back,23,2001-05-02T00:00:00.000Z,1.87,14.0,0,0,5,5,486,2,0
+463,66c5b3caf98db29296783c16,chem campbell,wolves,wales,central midfield,21,2002-12-30T00:00:00.000Z,1.8,,0,0,0,0,0,0,0
+464,66c5b3caf98db29296783c19,joao gomes,wolves,brazil,central midfield,23,2001-02-12T00:00:00.000Z,1.76,8.0,3,1,27,27,2405,8,1
+465,66c5b3caf98db29296783c1d,luke cundle,wolves,england,attacking midfield,22,2002-04-26T00:00:00.000Z,1.74,34.0,0,0,0,0,0,0,0
+466,66c5b3caf98db29296783c1e,nathan fraser,wolves,ireland,centre forward,19,2005-02-22T00:00:00.000Z,1.88,63.0,0,0,0,0,0,0,0
+467,66c5b3caf98db29296783c21,hwang heechan,wolves,south korea,centre forward,28,1996-01-26T00:00:00.000Z,1.77,11.0,2,1,18,5,748,0,0
+468,66c5b3caf98db29296783c24,rodrigo gomes,wolves,portugal,right forward,21,2003-07-07T00:00:00.000Z,1.75,19.0,1,0,15,6,670,0,0
+469,66c5b3caf98db29296783c25,fabio silva,wolves,portugal,centre forward,22,2002-07-19T00:00:00.000Z,1.85,20.0,0,0,0,0,0,0,0
+470,66c5b3caf98db29296783c2a,arijanet muric,ipswich,kosovo,goalkeeper,26,1998-11-07T00:00:00.000Z,1.98,1.0,0,0,18,18,1750,1,0
+471,66c5b3caf98db29296783c2e,leif davis,ipswich,england,left back,24,2000-01-12T00:00:00.000Z,1.66,3.0,1,2,28,28,2639,5,0
+472,66c5b3caf98db29296783c32,benjamin johnson,ipswich,england,right back,24,2000-01-24T00:00:00.000Z,1.84,18.0,0,1,17,9,1056,3,0
+473,66c5b3caf98db29296783c41,conor chaplin,ipswich,england,secondary striker,27,1997-02-16T00:00:00.000Z,1.78,10.0,1,1,15,7,673,1,0
+474,66c5b3caf98db29296783c42,marcus harness,ipswich,england,left forward,28,1996-02-24T00:00:00.000Z,1.82,11.0,0,0,2,0,61,0,0
+475,66c5b3caf98db29296783c4f,jake o'brien,everton,ireland,centre back,23,2001-05-15T00:00:00.000Z,1.97,15.0,1,0,11,8,851,2,0
+476,66c5b3caf98db29296783c54,abdoulaye doucoure,everton,mali,central midfield,31,1993-01-01T00:00:00.000Z,1.83,16.0,2,2,25,24,2096,3,0
+477,66c5b3caf98db29296783c58,jenson metcalfe,everton,england,central midfield,19,2004-09-06T00:00:00.000Z,1.83,44.0,0,0,0,0,0,0,0
+478,66c5b3caf98db29296783c5c,jack harrison,everton,england,left forward,27,,1.75,11.0,1,0,24,17,1611,0,0
+479,66c5b3caf98db29296783c5f,youssef chermiti,everton,portugal,centre forward,20,2004-04-25T00:00:00.000Z,1.92,17.0,0,0,0,0,0,0,0
+480,66c5b3caf98db29296783c60,jesper lindstrom,everton,denmark,centre forward,24,2000-02-29T00:00:00.000Z,1.82,29.0,0,1,24,15,1282,2,0
+481,66c5b3caf98db29296783b94,konstantinos mavropanos,west ham,greece,centre back,26,1997-12-11T00:00:00.000Z,1.94,15.0,0,0,21,16,1636,3,1
+482,66c5b3caf98db29296783b95,jeanclair todibo,west ham,france,centre back,24,1999-12-30T00:00:00.000Z,1.9,25.0,0,0,15,8,962,0,0
+483,66c5b3caf98db29296783b99,emerson palmieri,west ham,italy,left back,30,1994-08-03T00:00:00.000Z,1.76,33.0,2,1,23,22,1748,5,0
+484,66c5b3caf98db29296783b9f,edson alvarez,west ham,mexico,defensive midfield,27,1997-10-24T00:00:00.000Z,1.9,19.0,0,1,20,15,1458,7,1
+485,66c5b3caf98db29296783ba8,jarrod bowen,west ham,england,right forward,27,1996-12-20T00:00:00.000Z,1.82,20.0,6,6,21,21,1975,0,0
+486,66c5b3caf98db29296783ba9,maxwel cornet,southampton,ivory coast,left forward,28,1996-09-27T00:00:00.000Z,1.79,22.0,0,0,2,1,81,1,0
+487,66c5b3caf98db29296783baa,divin mubama,west ham,england,centre forward,19,2004-10-25T00:00:00.000Z,1.82,45.0,0,0,1,0,30,0,0
+488,66c5b3caf98db29296783bac,alex mccarthy,southampton,england,goalkeeper,34,1989-12-03T00:00:00.000Z,1.93,1.0,0,0,5,5,496,0,0
+489,66c5b3caf98db29296783baf,gavin bazunu,southampton,ireland,goalkeeper,22,2002-02-20T00:00:00.000Z,1.89,31.0,0,0,0,0,0,0,0
+490,66c5b3caf98db29296783bb0,kyle walkerpeters,southampton,england,right back,27,1997-04-13T00:00:00.000Z,1.73,2.0,0,2,27,27,2575,5,0
+491,66c5b3caf98db29296783bb1,ryan manning,southampton,ireland,centre back,28,1996-06-14T00:00:00.000Z,1.73,3.0,0,1,17,12,1051,2,0
+492,66c5b3caf98db29296783bb2,jack stephens,southampton,england,centre back,30,1994-01-27T00:00:00.000Z,1.85,5.0,0,0,12,10,1000,2,2
+493,66c5b3caf98db29296783bbb,armel bella kotchap,southampton,germany,centre back,22,2001-12-11T00:00:00.000Z,1.9,37.0,0,0,4,2,357,0,0
+494,66c5b3caf98db29296783bbd,mateus fernandes,southampton,portugal,defensive midfield,20,2004-07-10T00:00:00.000Z,1.78,18.0,1,3,27,25,2293,7,0
+495,66c5b3caf98db29296783bc5,adam armstrong,southampton,england,centre forward,27,1997-02-10T00:00:00.000Z,1.73,9.0,2,2,20,15,1323,4,0
+496,66c5b3caf98db29296783bc6,ross stewart,southampton,scotland,centre forward,28,1996-07-11T00:00:00.000Z,1.88,11.0,0,0,4,1,153,1,0
+497,66c5b3caf98db29296783bc8,sekou mara,southampton,france,centre forward,22,2002-07-30T00:00:00.000Z,1.84,18.0,0,0,0,0,0,0,0
+498,66c5b3caf98db29296783bd1,jorge cuenca,fulham,spain,centre back,25,1999-11-17T00:00:00.000Z,1.9,15.0,0,0,5,2,202,0,0
+499,66c5b3caf98db29296783bd4,issa diop,fulham,france,centre back,27,1997-01-09T00:00:00.000Z,1.94,31.0,0,0,20,14,1410,2,0
+500,66c5b3caf98db29296783bd7,tom cairney,fulham,scotland,central midfield,33,1991-01-20T00:00:00.000Z,1.85,10.0,1,0,19,2,611,1,1
+501,66c5b3caf98db29296783bde,harry wilson,fulham,wales,right forward,27,1997-03-22T00:00:00.000Z,1.73,8.0,5,1,19,8,929,2,0
+502,66c5b3caf98db29296783bdf,rodrigo muniz,fulham,brazil,centre forward,23,2001-05-04T00:00:00.000Z,1.85,9.0,6,1,28,6,973,0,0
+503,66c5b3caf98db29296783be1,jay stansfield,fulham,england,centre forward,21,2002-11-24T00:00:00.000Z,1.87,28.0,0,0,1,0,5,0,0
+504,66c5b3caf98db29296783be6,marcus bettinelli,chelsea,england,goalkeeper,32,1992-05-24T00:00:00.000Z,1.93,13.0,0,0,0,0,0,0,0
+505,66c5b3caf98db29296783be7,djordje petrovic,chelsea,serbia,goalkeeper,24,1999-10-08T00:00:00.000Z,1.94,28.0,0,0,0,0,0,0,0
+506,66c5b3caf98db29296783bed,levi colwill,chelsea,england,centre back,21,2003-02-26T00:00:00.000Z,1.87,6.0,1,1,26,26,2543,7,0
+507,66c5b3caf98db29296783bf3,enzo fernandez,chelsea,argentina,central midfield,23,,1.78,8.0,4,4,26,22,2236,5,0
+508,66c5b3caf98db29296783bf4,carney chukwuemeka,chelsea,england,central midfield,21,2003-10-20T00:00:00.000Z,1.87,17.0,0,0,0,0,0,0,0
+509,66c5b3caf98db29296783bf8,conor gallagher,chelsea,england,central midfield,24,2000-02-06T00:00:00.000Z,1.82,23.0,0,0,0,0,0,0,0
+510,66c5b3caf98db29296783c06,deivid washington,chelsea,brazil,centre forward,19,,1.87,36.0,0,0,0,0,0,0,0
+511,66c5b3caf98db29296783c07,marc guiu,chelsea,spain,centre forward,18,2006-01-04T00:00:00.000Z,1.87,38.0,0,0,3,0,92,0,0
+512,66c5b3caf98db29296783c1b,jean bellegarde,wolves,france,central midfield,26,1998-06-27T00:00:00.000Z,1.72,27.0,2,6,27,15,1387,2,0
+513,66c5b3caf98db29296783c20,daniel podence,wolves,portugal,left forward,28,1995-10-21T00:00:00.000Z,1.62,10.0,0,0,2,0,68,0,0
+514,66c5b3caf98db29296783c29,leon chiwome,wolves,zimbabwe,centre forward,18,2006-01-10T00:00:00.000Z,1.86,84.0,0,0,0,0,0,0,0
+515,66c5b3caf98db29296783c31,cameron burgess,ipswich,australia,centre back,29,1995-10-21T00:00:00.000Z,1.94,15.0,0,1,11,10,1024,0,0
+516,66c5b3caf98db29296783c35,elkan baggott,ipswich,indonesia,centre back,21,2002-10-23T00:00:00.000Z,1.94,26.0,0,0,0,0,0,0,0
+517,66c5b3caf98db29296783c3d,jack taylor,ipswich,ireland,central midfield,26,1998-06-23T00:00:00.000Z,1.85,14.0,1,0,22,1,624,3,0
+518,66c5b3caf98db29296783c3e,omari hutchinson,ipswich,jamaica,attacking midfield,21,2003-10-30T00:00:00.000Z,1.74,20.0,3,2,27,26,2350,5,0
+519,66c5b3caf98db29296783c43,ali alhamadi,ipswich,iraq,centre forward,22,2002-03-01T00:00:00.000Z,1.78,16.0,0,0,11,0,205,3,0
+520,66c5b3caf98db29296783c46,freddie ladapo,ipswich,england,centre forward,31,1993-02-01T00:00:00.000Z,1.83,29.0,0,0,0,0,0,0,0
+521,66c5b3caf98db29296783c49,joao virginia,everton,portugal,goalkeeper,25,1999-10-10T00:00:00.000Z,1.92,12.0,0,0,0,0,0,0,0
+522,66c5b3caf98db29296783c4d,michael keane,everton,england,centre back,31,1993-01-11T00:00:00.000Z,1.88,5.0,2,0,11,10,1003,4,0
+523,66c5b3caf98db29296783c50,ashley young,everton,england,left back,39,1985-07-09T00:00:00.000Z,1.75,18.0,1,3,26,18,1863,6,2
+524,66c5b3caf98db29296783c55,idrissa gueye,everton,senegal,central midfield,35,1989-09-26T00:00:00.000Z,1.74,27.0,0,2,28,26,2441,5,0
+525,66c5b3caf98db29296783c56,james garner,everton,england,central midfield,23,2001-03-13T00:00:00.000Z,1.82,37.0,0,1,11,8,847,3,0
+526,66c5b3caf98db29296783b97,nayef aguerd,west ham,morocco,centre back,28,1996-03-30T00:00:00.000Z,1.9,27.0,0,0,0,0,0,0,0
+527,66c5b3caf98db29296783b9e,luis guilherme,west ham,brazil,attacking midfield,18,2006-02-09T00:00:00.000Z,1.75,17.0,0,0,7,0,90,0,0
+528,66c5b3caf98db29296783ba0,guido rodriguez,west ham,argentina,defensive midfield,30,,1.85,24.0,0,0,19,14,1091,5,0
+529,66c5b3caf98db29296783ba3,freddie potts,west ham,england,central midfield,20,2003-09-12T00:00:00.000Z,1.8,62.0,0,0,0,0,0,0,0
+530,66c5b3caf98db29296783ba7,danny ings,west ham,england,centre forward,32,1992-07-23T00:00:00.000Z,1.78,18.0,1,2,14,1,380,0,0
+531,66c5b3caf98db29296783bad,joe lumley,southampton,england,goalkeeper,29,1995-02-15T00:00:00.000Z,1.9,13.0,0,0,3,3,301,0,0
+532,66c5b3caf98db29296783bb4,ronnie edwards,southampton,england,centre back,21,2003-03-28T00:00:00.000Z,1.83,12.0,0,0,1,0,21,0,0
+533,66c5b3caf98db29296783bb5,james bree,southampton,england,right back,26,1997-12-11T00:00:00.000Z,1.78,14.0,0,1,14,11,953,0,0
+534,66c5b3caf98db29296783bb9,juan larios,southampton,spain,centre back,20,2004-01-12T00:00:00.000Z,1.7,28.0,0,0,0,0,0,0,0
+535,66c5b3caf98db29296783bbe,flynn downes,southampton,england,defensive midfield,25,1999-01-20T00:00:00.000Z,1.78,4.0,1,0,20,18,1635,9,0
+536,66c5b3caf98db29296783bbf,joe aribo,southampton,nigeria,central midfield,28,1996-07-21T00:00:00.000Z,1.83,7.0,3,0,28,19,1982,1,0
+537,66c5b3caf98db29296783bc1,adam lallana,southampton,england,attacking midfield,36,,1.72,10.0,0,2,14,5,438,4,0
+538,66c5b3caf98db29296783bcb,samuel edozie,southampton,england,left forward,21,2003-01-28T00:00:00.000Z,1.81,23.0,0,0,2,0,81,1,0
+539,66c5b3caf98db29296783bcf,kenny tete,fulham,netherlands,right back,29,1995-10-09T00:00:00.000Z,1.8,2.0,0,2,15,15,1351,3,0
+540,66c5b3caf98db29296783bd3,kevin mbabu,fulham,switzerland,right back,29,1995-04-19T00:00:00.000Z,1.84,27.0,0,0,0,0,0,0,0
+541,66c5b3caf98db29296783bd5,antonee robinson,fulham,usa,left back,27,1997-08-08T00:00:00.000Z,1.83,33.0,0,10,29,28,2761,8,0
+542,66c5b3caf98db29296783bd6,harrison reed,fulham,england,central midfield,29,1995-01-27T00:00:00.000Z,1.81,6.0,0,0,9,0,130,2,0
+543,66c5b3caf98db29296783bd8,alex iwobi,fulham,nigeria,attacking midfield,28,1996-05-03T00:00:00.000Z,1.83,17.0,7,4,29,28,2489,1,0
+544,66c5b3caf98db29296783bdc,emile smithrowe,fulham,england,attacking midfield,24,2000-07-28T00:00:00.000Z,1.82,32.0,5,2,26,22,1788,1,0
+545,66c5b3caf98db29296783be2,carlos vinicius,fulham,brazil,centre forward,29,1995-03-25T00:00:00.000Z,1.9,12.0,0,0,1,0,9,0,0
+546,66c5b3caf98db29296783be3,kepa arrizabalaga,bournemouth,spain,goalkeeper,30,1994-10-03T00:00:00.000Z,1.88,13.0,0,0,23,23,2248,2,0
+547,66c5b3caf98db29296783bea,marc cucurella,chelsea,spain,left back,26,1998-07-22T00:00:00.000Z,1.73,3.0,3,2,26,24,2333,7,0
+548,66c5b3caf98db29296783bee,trevoh chalobah,crystal palace,england,centre back,25,1999-07-05T00:00:00.000Z,1.92,27.0,3,1,17,16,1425,1,0
+549,66c5b3caf98db29296783bf5,christopher nkunku,chelsea,france,attacking midfield,27,1997-11-14T00:00:00.000Z,1.78,18.0,3,2,24,7,930,2,0
+550,66c5b3caf98db29296783bf6,cole palmer,chelsea,england,attacking midfield,22,2002-05-06T00:00:00.000Z,1.89,20.0,14,6,27,27,2540,4,0
+551,66c5b3caf98db29296783bf7,kiernan dewsburyhall,chelsea,england,central midfield,26,1998-09-06T00:00:00.000Z,1.78,22.0,0,1,9,1,263,0,0
+552,66c5b3caf98db29296783bfb,omari kellyman,chelsea,northern ireland,attacking midfield,19,2005-09-25T00:00:00.000Z,1.91,37.0,0,0,0,0,0,0,0
+553,66c5b3caf98db29296783bfe,raheem sterling,arsenal,england,left forward,29,1994-12-08T00:00:00.000Z,1.7,30.0,0,1,11,4,352,1,0
+554,66c5b3caf98db29296783c02,armando broja,everton,albania,centre forward,23,2001-09-10T00:00:00.000Z,1.91,22.0,0,0,5,2,178,1,0
+555,66c5b3caf98db29296783c04,david fofana,chelsea,ivory coast,centre forward,21,2002-12-22T00:00:00.000Z,1.8,17.0,0,0,0,0,0,0,0
+556,66c5b3caf98db29296783c0c,thomas king,wolves,wales,goalkeeper,29,1995-03-09T00:00:00.000Z,1.94,40.0,0,0,0,0,0,0,0
+557,66c5b3caf98db29296783c0f,santiago bueno,wolves,uruguay,centre back,26,,1.9,4.0,0,0,22,17,1681,2,0
+558,66c5b3caf98db29296783c11,craig dawson,wolves,england,centre back,34,1990-05-06T00:00:00.000Z,1.88,15.0,0,0,15,10,1109,2,0
+559,66c5b3caf98db29296783c12,nelson semedo,wolves,portugal,right back,31,1993-11-16T00:00:00.000Z,1.77,22.0,0,4,25,24,2321,7,0
+560,66c5b3caf98db29296783c13,toti gomes,wolves,portugal,centre back,25,1999-01-16T00:00:00.000Z,1.87,24.0,0,1,22,21,1965,4,0
+561,66c5b3caf98db29296783c14,kijana hoever,wolves,netherlands,right back,22,2002-01-18T00:00:00.000Z,1.83,35.0,0,0,0,0,0,0,0
+562,66c5b3caf98db29296783c15,pedro lima,wolves,brazil,right back,18,2006-07-01T00:00:00.000Z,1.74,37.0,0,0,3,1,85,0,0
+563,66c5b3caf98db29296783c17,mario lemina,wolves,gabon,central midfield,31,1993-09-01T00:00:00.000Z,1.84,5.0,1,3,17,15,1502,3,0
+564,66c5b3caf98db29296783c1a,tommy doyle,wolves,england,central midfield,23,2001-10-17T00:00:00.000Z,1.72,20.0,0,0,24,3,676,1,0
+565,66c5b3caf98db29296783c1c,joe hodge,wolves,ireland,central midfield,21,2002-09-14T00:00:00.000Z,1.72,32.0,0,0,0,0,0,0,0
+566,66c5b3caf98db29296783c1f,jorgen strand larsen,wolves,norway,centre forward,24,2000-02-06T00:00:00.000Z,1.93,9.0,9,2,27,24,2210,3,0
+567,66c5b3caf98db29296783c22,matheus cunha,wolves,brazil,secondary striker,25,1999-05-27T00:00:00.000Z,1.84,10.0,13,4,26,24,2345,3,0
+568,66c5b3caf98db29296783c27,goncalo guedes,wolves,portugal,left forward,27,1996-11-29T00:00:00.000Z,1.78,29.0,2,4,24,7,924,1,0
+569,66c5b3caf98db29296783c2c,christian walton,ipswich,england,goalkeeper,29,1995-11-09T00:00:00.000Z,1.96,28.0,0,0,6,6,588,0,0
+570,66c5b3caf98db29296783c2d,harrison clarke,ipswich,england,right back,23,2001-03-02T00:00:00.000Z,1.8,2.0,0,0,7,4,453,2,1
+571,66c5b3caf98db29296783c2f,george edmundson,ipswich,england,centre back,27,1997-08-15T00:00:00.000Z,1.9,4.0,0,0,1,0,10,0,0
+572,66c5b3caf98db29296783c33,conor townsend,ipswich,england,left back,31,1993-10-08T00:00:00.000Z,1.68,22.0,0,0,3,1,166,0,0
+573,66c5b3caf98db29296783c34,jacob greaves,ipswich,england,centre back,24,2000-09-12T00:00:00.000Z,1.91,24.0,1,0,19,19,1799,4,0
+574,66c5b3caf98db29296783c38,kalvin phillips,ipswich,england,defensive midfield,28,1995-12-02T00:00:00.000Z,1.79,8.0,0,0,17,14,1291,5,1
+575,66c5b3caf98db29296783c39,jens cajuste,ipswich,sweden,central midfield,25,1999-08-10T00:00:00.000Z,1.88,12.0,1,0,22,19,1471,2,0
+576,66c5b3caf98db29296783c3a,sammie szmodics,ipswich,ireland,attacking midfield,29,,1.68,23.0,4,0,19,13,1039,2,0
+577,66c5b3caf98db29296783c3b,sam morsy,ipswich,egypt,central midfield,33,1991-09-10T00:00:00.000Z,1.75,5.0,1,1,24,22,2138,7,0
+578,66c5b3caf98db29296783c3f,massimo luongo,ipswich,australia,central midfield,32,1992-09-25T00:00:00.000Z,1.76,25.0,0,0,7,2,212,0,0
+579,66c5b3caf98db29296783c40,cameron humphreys,ipswich,england,central midfield,20,2003-10-30T00:00:00.000Z,,30.0,0,0,0,0,0,0,0
+580,66c5b3caf98db29296783c44,liam delap,ipswich,england,centre forward,21,2003-02-08T00:00:00.000Z,1.86,19.0,10,2,28,27,2237,8,0
+581,66c5b3caf98db29296783c45,george hirst,ipswich,england,centre forward,25,1999-02-15T00:00:00.000Z,1.91,27.0,2,1,17,1,365,1,0
+582,66c5b3caf98db29296783c48,jordan pickford,everton,england,goalkeeper,30,1994-03-07T00:00:00.000Z,1.85,1.0,0,1,29,29,2839,6,0
+583,66c5b3caf98db29296783c4a,billy crellin,everton,england,goalkeeper,24,2000-06-30T00:00:00.000Z,1.85,43.0,0,0,0,0,0,0,0
+584,66c5b3caf98db29296783c4b,nathan patterson,everton,scotland,right back,23,2001-10-16T00:00:00.000Z,1.89,2.0,0,0,7,0,182,0,0
+585,66c5b3caf98db29296783c4e,james tarkowski,everton,england,centre back,31,1992-11-19T00:00:00.000Z,1.85,6.0,1,1,29,29,2828,5,0
+586,66c5b3caf98db29296783c52,seamus coleman,everton,ireland,right back,36,1988-10-11T00:00:00.000Z,1.77,23.0,0,0,3,2,205,1,0
+587,66c5b3caf98db29296783c57,tim iroegbunam,everton,england,central midfield,21,,1.83,42.0,0,1,13,5,663,3,0
+588,66c5b3caf98db29296783c59,dwight mcneil,everton,england,left forward,24,1999-11-22T00:00:00.000Z,1.83,7.0,3,3,14,14,1322,1,0
+589,66c5b3caf98db29296783c5e,beto,everton,guinea-bissau,centre forward,26,1998-01-31T00:00:00.000Z,1.94,14.0,6,0,21,7,1009,1,0
+590,66ca1b69863f9bb0b4134824,ilkay gundogan,manchester city,germany,central midfield,34,1990-10-24T00:00:00.000Z,1.8,19.0,0,3,25,17,1623,1,0
+591,66ca1b69863f9bb0b4134825,joao felix,chelsea,portugal,secondary striker,25,1999-11-10T00:00:00.000Z,1.81,14.0,1,1,12,3,464,2,0
+592,66ca1b69863f9bb0b4134826,asmir begovic,everton,bosnia & herzegovina,goalkeeper,37,,1.96,31.0,0,0,0,0,0,0,0
+593,66ca2565863f9bb0b413501d,sander berge,fulham,norway,central midfield,26,1998-02-14T00:00:00.000Z,1.95,16.0,0,0,22,18,1774,4,0
+594,66cbbd719701d15f6cb0c69a,dara o'shea,ipswich,ireland,centre back,25,1999-03-04T00:00:00.000Z,1.89,26.0,0,1,26,26,2491,6,0
+595,66cd0fcb24764946809b796d,matthew o'riley,brighton,denmark,central midfield,23,2000-11-21T00:00:00.000Z,1.87,33.0,1,1,12,5,552,1,0
+596,66cd0fcb24764946809b796e,david carmo,nottingham forest,angola,centre back,25,1999-07-19T00:00:00.000Z,1.94,,0,0,0,0,0,0,0
+597,66ce60b1ddcbbee363e60a89,ferdi kadioglu,brighton,turkiye,left back,25,1999-10-07T00:00:00.000Z,1.73,24.0,1,0,6,5,402,1,0
+598,66ce60b1ddcbbee363e60a8a,amario cozierduberry,brighton,england,central midfield,19,2005-05-29T00:00:00.000Z,1.7,33.0,0,0,0,0,0,0,0
+599,66ce60b1ddcbbee363e60a8b,mikel merino,arsenal,spain,central midfield,28,1996-06-22T00:00:00.000Z,1.89,23.0,5,1,20,11,1167,2,0
+600,66cfb26d323a99c0f4ff483d,gustavo nunes,brentford,brazil,left forward,18,2005-11-20T00:00:00.000Z,1.73,39.0,0,0,0,0,0,0,0
+601,66cfb26d323a99c0f4ff483e,joe o'brien whitmarsh,southampton,ireland,central midfield,19,2005-05-11T00:00:00.000Z,,60.0,0,0,0,0,0,0,0
+602,66cfb26d323a99c0f4ff483f,chiedozie ogbene,ipswich,ireland,left forward,27,1997-05-01T00:00:00.000Z,1.81,21.0,0,0,5,3,247,0,0
+603,66cfb26d323a99c0f4ff4840,jack clarke,ipswich,england,left forward,23,2000-11-23T00:00:00.000Z,1.81,47.0,0,4,24,8,994,2,0
+604,66d254eed4f2544c2987e4a1,federico chiesa,liverpool,italy,left forward,27,1997-10-25T00:00:00.000Z,1.75,14.0,0,0,3,0,47,0,0
+605,66d254eed4f2544c2987e4a2,kristian fletcher,nottingham forest,usa,left forward,19,2004-10-16T00:00:00.000Z,1.83,,0,0,0,0,0,0,0
+606,66d254eed4f2544c2987e4a3,manuel ugarte,manchester united,uruguay,defensive midfield,23,2001-04-11T00:00:00.000Z,1.82,25.0,1,1,20,15,1345,8,0
+607,66d254eed4f2544c2987e4a4,jayden meghoma,brentford,england,left back,18,2006-06-26T00:00:00.000Z,1.75,21.0,0,0,1,0,12,0,0
+608,66d254eed4f2544c2987e4a5,bilel el khanouss,leicester,morocco,central midfield,20,2004-05-10T00:00:00.000Z,1.8,11.0,2,1,20,15,1251,2,0
+609,66d254eed4f2544c2987e4a6,bastien meupiyou,wolves,france,centre back,18,2006-03-19T00:00:00.000Z,1.91,33.0,0,0,0,0,0,0,0
+610,66d254eed4f2544c2987e4a7,andre,wolves,brazil,defensive midfield,23,2001-07-16T00:00:00.000Z,1.76,7.0,0,0,23,22,1858,4,0
+611,66d254eed4f2544c2987e4a8,orel mangala,everton,belgium,central midfield,26,1998-03-18T00:00:00.000Z,1.78,8.0,1,0,19,14,1362,2,0
+612,66d3a7252541a6342d4be0d2,lamare bogarde,aston villa,netherlands,central midfield,20,2004-01-05T00:00:00.000Z,1.83,26.0,0,0,7,4,448,1,0
+613,66d3a7252541a6342d4be0d3,carlos soler,west ham,spain,central midfield,27,1997-01-02T00:00:00.000Z,1.8,4.0,1,1,20,12,1077,5,0
+614,66d3a7252541a6342d4be0d4,carlos forbs,wolves,portugal,left forward,20,2004-03-19T00:00:00.000Z,1.69,26.0,0,1,9,1,304,2,0
+615,66d3a7252541a6342d4be0d5,maxence lacroix,crystal palace,france,centre back,24,2000-04-06T00:00:00.000Z,1.9,5.0,1,1,25,25,2415,4,0
+616,66d4f83403ef0cf53794562c,noel buck,southampton,usa,central midfield,19,2005-04-05T00:00:00.000Z,1.8,,0,0,0,0,0,0,0
+617,66d6492deea0f0e174c4ddf9,imari samuels,brighton,england,left back,21,2003-02-05T00:00:00.000Z,1.87,47.0,0,0,0,0,0,0,0
+618,66d6492deea0f0e174c4ddfa,morato,nottingham forest,brazil,centre back,23,2001-06-30T00:00:00.000Z,1.9,4.0,0,0,20,4,765,1,0
+619,66d6492deea0f0e174c4ddfb,enso gonzalez,wolves,paraguay,attacking midfield,19,2005-01-20T00:00:00.000Z,1.69,30.0,0,0,0,0,0,0,0
+620,66d6492deea0f0e174c4ddfc,tyler dibling,southampton,england,attacking midfield,18,2006-01-01T00:00:00.000Z,1.78,33.0,2,0,22,17,1590,6,0
+621,66d8ec10255dd9a8f9e5a47a,vitezslav jaros,liverpool,czech republic,goalkeeper,23,2001-07-23T00:00:00.000Z,1.9,56.0,0,0,1,0,19,0,0
+622,66d8ec10255dd9a8f9e5a47b,yegor yarmolyuk,brentford,ukraine,attacking midfield,20,2004-05-10T00:00:00.000Z,1.8,33.0,0,0,22,7,876,3,0
+623,66d8ec10255dd9a8f9e5a47c,alfie devine,tottenham,england,attacking midfield,20,2004-08-01T00:00:00.000Z,1.79,45.0,0,0,0,0,0,0,0
+624,66d8ec10255dd9a8f9e5a47d,toby collyer,manchester united,england,defensive midfield,20,2004-01-03T00:00:00.000Z,1.8,43.0,0,0,4,0,122,0,0
+625,66f34aff3bc5483d59b9737e,kaden braithwaite,manchester city,england,centre back,16,2008-03-25T00:00:00.000Z,,,0,0,0,0,0,0,0
+626,66f5ed1f25824a1813247cb6,daouda traore,southampton,france,right midfield,18,2006-07-22T00:00:00.000Z,1.86,,0,0,0,0,0,0,0
+627,66f8912d8d45e1378f9dce5e,ethan nwaneri,arsenal,england,attacking midfield,17,2007-03-21T00:00:00.000Z,1.76,53.0,3,1,16,6,594,1,0
+628,67217d082ff7fae06de58e12,nico o'reilly,manchester city,england,central midfield,19,2005-03-21T00:00:00.000Z,1.93,75.0,0,0,2,0,27,0,0
+629,672ffee2445362a68d340719,justin devenny,crystal palace,northern ireland,left midfield,21,2003-10-11T00:00:00.000Z,1.84,55.0,1,0,13,2,312,0,0

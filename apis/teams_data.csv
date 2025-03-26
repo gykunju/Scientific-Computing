@@ -1,0 +1,21 @@
+,_id,name,points,matchesPlayed,wins,draws,losses,goalsScored,goalsConceded,goalDifference,coach,championships,runnersUp,imageUrl
+0,66a51e73841d8a52475a9533,leicester,17,25,4,5,16,25,55,-30,steve cooper,1,1,https://res.cloudinary.com/dwdcrimvk/image/upload/v1734118956/leicester_yll4wd.png
+1,66a51e73841d8a52475a953a,chelsea,46,28,13,7,8,52,37,15,enzo maresca,6,4,https://res.cloudinary.com/dwdcrimvk/image/upload/v1734118954/chelsea_tb3w1g.png
+2,66a51e73841d8a52475a953b,everton,33,28,7,12,9,31,35,-4,sean dyche,9,7,https://res.cloudinary.com/dwdcrimvk/image/upload/v1734118951/everton_jcafok.png
+3,66a51e73841d8a52475a953c,liverpool,67,28,20,7,1,67,27,40,arne slot,19,15,https://res.cloudinary.com/dwdcrimvk/image/upload/v1734118955/liverpool_cqlh0l.png
+4,66a51e73841d8a52475a953e,manchester city,48,29,14,6,9,55,40,15,pep guardiola,10,6,https://res.cloudinary.com/dwdcrimvk/image/upload/v1734118954/manchester-city_phtqbw.png
+5,66a51e73841d8a52475a953f,west ham,27,25,7,6,12,29,47,-18,julen lopetegui,0,0,https://res.cloudinary.com/dwdcrimvk/image/upload/v1734118951/west-ham_b6fuc7.png
+6,66a51e73841d8a52475a9542,fulham,45,29,12,9,8,43,38,5,marco silva,0,0,https://res.cloudinary.com/dwdcrimvk/image/upload/v1734118952/fulham_xtmyw2.png
+7,66a51e73841d8a52475a9531,wolves,26,29,7,5,17,40,58,-18,gary o'neil,3,5,https://res.cloudinary.com/dwdcrimvk/image/upload/v1734118955/wolves_btoqyq.png
+8,66a51e73841d8a52475a9534,nottingham forest,54,28,16,6,6,46,31,15,nuno espirito santo,1,2,https://res.cloudinary.com/dwdcrimvk/image/upload/v1734118953/nottingham-forest_vfhccy.png
+9,66a51e73841d8a52475a9535,brighton,47,29,12,11,6,48,42,6,fabian hurzeler,0,0,https://res.cloudinary.com/dwdcrimvk/image/upload/v1734118953/brighton_rxdhly.png
+10,66a51e73841d8a52475a9540,tottenham,34,29,10,4,15,55,43,12,ange postecoglou,2,5,https://res.cloudinary.com/dwdcrimvk/image/upload/v1734118952/tottenham_ihqd9l.png
+11,66a51e73841d8a52475a952f,ipswich,17,29,3,8,18,28,62,-34,kieran mckenna,1,2,https://res.cloudinary.com/dwdcrimvk/image/upload/v1734118955/ipswich_shy69j.png
+12,66a51e73841d8a52475a9532,southampton,9,29,2,3,24,21,70,-49,russell martin,0,1,https://res.cloudinary.com/dwdcrimvk/image/upload/v1734118955/southampton_y4kdic.png
+13,66a51e73841d8a52475a9536,bournemouth,44,29,12,8,9,48,36,12,andoni iraola,0,0,https://res.cloudinary.com/dwdcrimvk/image/upload/v1734118952/bournemouth_argcgt.png
+14,66a51e73841d8a52475a9537,brentford,38,28,11,5,12,46,45,1,thomas frank,0,0,https://res.cloudinary.com/dwdcrimvk/image/upload/v1734118952/brentford_l3trye.png
+15,66a51e73841d8a52475a9538,arsenal,58,28,16,10,2,53,23,30,mikel arteta,13,11,https://res.cloudinary.com/dwdcrimvk/image/upload/v1734118954/arsenal_z7bmow.png
+16,66a51e73841d8a52475a9530,crystal palace,39,28,10,9,9,36,33,3,oliver glasner,0,0,https://res.cloudinary.com/dwdcrimvk/image/upload/v1734118956/crystal-palace_jzvf0i.png
+17,66a51e73841d8a52475a9539,manchester united,34,28,9,7,12,34,40,-6,erik ten hag,20,17,https://res.cloudinary.com/dwdcrimvk/image/upload/v1734118952/manchester-united_rngjgh.png
+18,66a51e73841d8a52475a953d,aston villa,45,29,12,9,8,41,45,-4,unai emery,7,10,https://res.cloudinary.com/dwdcrimvk/image/upload/v1734118953/aston-villa_mbc8js.png
+19,66a51e73841d8a52475a9541,newcastle,41,25,12,5,8,42,33,9,eddie howe,4,2,https://res.cloudinary.com/dwdcrimvk/image/upload/v1734118951/newcastle_goxa86.png
